@@ -1,0 +1,101 @@
+id_trasportatore,ragione_sociale,partita_iva,comune,provincia,sigla,regione
+T000001,Trasporti Mathi S.r.l.,53321819600,Mathi,-,TO,Piemonte
+T000002,Trasporti Acquaro S.r.l.,48908386379,Acquaro,Vibo Valentia,VV,Calabria
+T000003,Logistica Grimaldi S.r.l.,36542351161,Grimaldi,Cosenza,CS,Calabria
+T000004,Logistica Macerata Campania S.p.A.,50781618495,Macerata Campania,Caserta,CE,Campania
+T000005,Express Vervio S.r.l.,20341316475,Vervio,Sondrio,SO,Lombardia
+T000006,Autotrasporti Longobucco S.p.A.,63419283276,Longobucco,Cosenza,CS,Calabria
+T000007,Logistica Sant'Antonino di Susa S.r.l.,60305641395,Sant'Antonino di Susa,-,TO,Piemonte
+T000008,Autotrasporti Prezza S.p.A.,77242388496,Prezza,L'Aquila,AQ,Abruzzo
+T000009,Express Casaprota S.p.A.,63287101226,Casaprota,Rieti,RI,Lazio
+T000010,Express Montecchio Maggiore S.r.l.,76978480184,Montecchio Maggiore,Vicenza,VI,Veneto
+T000011,Logistica Monte Porzio S.r.l.,56270482814,Monte Porzio,Pesaro e Urbino,PU,Marche
+T000012,Express Bassano Romano S.r.l.,35288095701,Bassano Romano,Viterbo,VT,Lazio
+T000013,Logistica Giffoni Valle Piana S.p.A.,40391171822,Giffoni Valle Piana,Salerno,SA,Campania
+T000014,Cargo Alì Terme S.r.l.,58963834657,Alì Terme,Messina,ME,Sicilia
+T000015,Express Castel d'Azzano S.p.A.,23315098393,Castel d'Azzano,Verona,VR,Veneto
+T000016,Trasporti Bella S.r.l.,13105183473,Bella,Potenza,PZ,Basilicata
+T000017,Express Apiro S.r.l.,83763116566,Apiro,Macerata,MC,Marche
+T000018,Cargo Rionero in Vulture S.r.l.,20651333872,Rionero in Vulture,Potenza,PZ,Basilicata
+T000019,Cargo Gorle S.r.l.,57317810801,Gorle,Bergamo,BG,Lombardia
+T000020,Autotrasporti Filottrano S.r.l.,77736026064,Filottrano,Ancona,AN,Marche
+T000021,Cargo Sergnano S.p.A.,78723430980,Sergnano,Cremona,CR,Lombardia
+T000022,Logistica Avola S.r.l.,19788208121,Avola,Siracusa,SR,Sicilia
+T000023,Express Bagno di Romagna S.r.l.,46193990916,Bagno di Romagna,Forlì-Cesena,FC,Emilia-Romagna
+T000024,Express Tavoleto S.p.A.,53534624751,Tavoleto,Pesaro e Urbino,PU,Marche
+T000025,Trasporti Tre Ville S.p.A.,21838425135,Tre Ville,Trento,TN,Trentino-Alto Adige/Südtirol
+T000026,Logistica Varano Borghi S.r.l.,88498084124,Varano Borghi,Varese,VA,Lombardia
+T000027,Trasporti Osnago S.r.l.,92449353487,Osnago,Lecco,LC,Lombardia
+T000028,Logistica Igliano S.r.l.,26400524278,Igliano,Cuneo,CN,Piemonte
+T000029,Cargo Sala Biellese S.r.l.,21280598262,Sala Biellese,Biella,BI,Piemonte
+T000030,Trasporti Caldarola S.p.A.,60533158692,Caldarola,Macerata,MC,Marche
+T000031,Autotrasporti Cento S.r.l.,36025634216,Cento,Ferrara,FE,Emilia-Romagna
+T000032,Trasporti Prata d'Ansidonia S.p.A.,43754330365,Prata d'Ansidonia,L'Aquila,AQ,Abruzzo
+T000033,Logistica Summonte S.r.l.,55868501429,Summonte,Avellino,AV,Campania
+T000034,Logistica Loranzè S.r.l.,29655698169,Loranzè,-,TO,Piemonte
+T000035,Autotrasporti Pofi S.p.A.,16088356159,Pofi,Frosinone,FR,Lazio
+T000036,Logistica Montefano S.r.l.,58465648236,Montefano,Macerata,MC,Marche
+T000037,Cargo Celle Enomondo S.r.l.,56804436995,Celle Enomondo,Asti,AT,Piemonte
+T000038,Cargo San Michele di Serino S.p.A.,83872148951,San Michele di Serino,Avellino,AV,Campania
+T000039,Autotrasporti Marebbe S.p.A.,43200379176,Marebbe,Bolzano/Bozen,BZ,Trentino-Alto Adige/Südtirol
+T000040,Express Poggio Nativo S.r.l.,77632016328,Poggio Nativo,Rieti,RI,Lazio
+T000041,Cargo Succivo S.r.l.,93172788957,Succivo,Caserta,CE,Campania
+T000042,Express Argentera S.p.A.,97277434873,Argentera,Cuneo,CN,Piemonte
+T000043,Logistica Isola del Piano S.p.A.,24345581223,Isola del Piano,Pesaro e Urbino,PU,Marche
+T000044,Cargo Margarita S.r.l.,41665876036,Margarita,Cuneo,CN,Piemonte
+T000045,Cargo Trecate S.r.l.,77054668893,Trecate,Novara,NO,Piemonte
+T000046,Cargo Sellia Marina S.r.l.,56706562729,Sellia Marina,Catanzaro,CZ,Calabria
+T000047,Express Conflenti S.r.l.,79901627204,Conflenti,Catanzaro,CZ,Calabria
+T000048,Cargo Selva dei Molini S.p.A.,47556464170,Selva dei Molini,Bolzano/Bozen,BZ,Trentino-Alto Adige/Südtirol
+T000049,Express Colli a Volturno S.r.l.,63100330923,Colli a Volturno,Isernia,IS,Molise
+T000050,Autotrasporti Vaccarizzo Albanese S.p.A.,29374529912,Vaccarizzo Albanese,Cosenza,CS,Calabria
+T000051,Logistica San Mauro Pascoli S.r.l.,14966319314,San Mauro Pascoli,Forlì-Cesena,FC,Emilia-Romagna
+T000052,Express San Giorgio del Sannio S.r.l.,15865185067,San Giorgio del Sannio,Benevento,BN,Campania
+T000053,Trasporti Ferrera Erbognone S.p.A.,67262849877,Ferrera Erbognone,Pavia,PV,Lombardia
+T000054,Cargo Erve S.p.A.,63147379965,Erve,Lecco,LC,Lombardia
+T000055,Trasporti Coli S.p.A.,62735454948,Coli,Piacenza,PC,Emilia-Romagna
+T000056,Trasporti Pero S.r.l.,23678377701,Pero,-,MI,Lombardia
+T000057,Logistica Galatro S.r.l.,73495788568,Galatro,Reggio di Calabria,RC,Calabria
+T000058,Logistica Sabaudia S.p.A.,84443135182,Sabaudia,Latina,LT,Lazio
+T000059,Autotrasporti San Mauro Castelverde S.r.l.,84989413435,San Mauro Castelverde,Palermo,PA,Sicilia
+T000060,Autotrasporti Forino S.p.A.,18240084271,Forino,Avellino,AV,Campania
+T000061,Trasporti San Giovanni in Marignano S.p.A.,87752047116,San Giovanni in Marignano,Rimini,RN,Emilia-Romagna
+T000062,Cargo Montebello Ionico S.r.l.,12294131869,Montebello Ionico,Reggio di Calabria,RC,Calabria
+T000063,Express Castel del Piano S.r.l.,96774964990,Castel del Piano,Grosseto,GR,Toscana
+T000064,Express Tremestieri Etneo S.r.l.,43412328120,Tremestieri Etneo,Catania,CT,Sicilia
+T000065,Cargo Vallio Terme S.p.A.,84034471349,Vallio Terme,Brescia,BS,Lombardia
+T000066,Autotrasporti Riva del Garda S.p.A.,28324210249,Riva del Garda,Trento,TN,Trentino-Alto Adige/Südtirol
+T000067,Express Monte Porzio S.p.A.,81746488771,Monte Porzio,Pesaro e Urbino,PU,Marche
+T000068,Express Alessandria della Rocca S.r.l.,75940139904,Alessandria della Rocca,Agrigento,AG,Sicilia
+T000069,Express Civezzano S.r.l.,37874296717,Civezzano,Trento,TN,Trentino-Alto Adige/Südtirol
+T000070,Logistica Cavaglietto S.p.A.,65125674680,Cavaglietto,Novara,NO,Piemonte
+T000071,Cargo Scorzè S.r.l.,64516808760,Scorzè,-,VE,Veneto
+T000072,Autotrasporti Cuggiono S.p.A.,87034824771,Cuggiono,-,MI,Lombardia
+T000073,Trasporti Boschi Sant'Anna S.r.l.,34808613171,Boschi Sant'Anna,Verona,VR,Veneto
+T000074,Autotrasporti Bertiolo S.p.A.,58467737826,Bertiolo,Udine,UD,Friuli-Venezia Giulia
+T000075,Autotrasporti Rivarone S.r.l.,24658404499,Rivarone,Alessandria,AL,Piemonte
+T000076,Cargo Opi S.r.l.,88755886753,Opi,L'Aquila,AQ,Abruzzo
+T000077,Autotrasporti Buscate S.p.A.,46057662702,Buscate,-,MI,Lombardia
+T000078,Express Orio al Serio S.p.A.,27187026217,Orio al Serio,Bergamo,BG,Lombardia
+T000079,Logistica Seggiano S.p.A.,71586578091,Seggiano,Grosseto,GR,Toscana
+T000080,Autotrasporti Pescocostanzo S.p.A.,41611724005,Pescocostanzo,L'Aquila,AQ,Abruzzo
+T000081,Trasporti Serravalle Langhe S.p.A.,65623869222,Serravalle Langhe,Cuneo,CN,Piemonte
+T000082,Trasporti San Marco Evangelista S.p.A.,47923747407,San Marco Evangelista,Caserta,CE,Campania
+T000083,Logistica Maiori S.r.l.,27594647436,Maiori,Salerno,SA,Campania
+T000084,Cargo Saint-Nicolas S.r.l.,46959440640,Saint-Nicolas,Valle d'Aosta/Vallée d'Aoste,AO,Valle d'Aosta/Vallée d'Aoste
+T000085,Express Sarre S.r.l.,84395339421,Sarre,Valle d'Aosta/Vallée d'Aoste,AO,Valle d'Aosta/Vallée d'Aoste
+T000086,Trasporti Verrès S.p.A.,80952145623,Verrès,Valle d'Aosta/Vallée d'Aoste,AO,Valle d'Aosta/Vallée d'Aoste
+T000087,Autotrasporti Tribogna S.p.A.,98424745171,Tribogna,-,GE,Liguria
+T000088,Autotrasporti San Venanzo S.r.l.,78516048175,San Venanzo,Terni,TR,Umbria
+T000089,Logistica Carnago S.p.A.,61370985931,Carnago,Varese,VA,Lombardia
+T000090,Cargo Pertica Bassa S.p.A.,71200471138,Pertica Bassa,Brescia,BS,Lombardia
+T000091,Autotrasporti Apice S.p.A.,85869261796,Apice,Benevento,BN,Campania
+T000092,Logistica Vimodrone S.r.l.,63773515850,Vimodrone,-,MI,Lombardia
+T000093,Cargo Luzzi S.p.A.,41713900532,Luzzi,Cosenza,CS,Calabria
+T000094,Express Demonte S.r.l.,28393352904,Demonte,Cuneo,CN,Piemonte
+T000095,Autotrasporti Piozzo S.r.l.,94210205395,Piozzo,Cuneo,CN,Piemonte
+T000096,Trasporti Venetico S.r.l.,50268117758,Venetico,Messina,ME,Sicilia
+T000097,Express Teramo S.r.l.,88390847007,Teramo,Teramo,TE,Abruzzo
+T000098,Cargo Ailano S.p.A.,27711592124,Ailano,Caserta,CE,Campania
+T000099,Express Monteverde S.p.A.,79847896118,Monteverde,Avellino,AV,Campania
+T000100,Autotrasporti Nonio S.p.A.,83657661565,Nonio,Verbano-Cusio-Ossola,VB,Piemonte

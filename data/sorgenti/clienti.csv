@@ -1,0 +1,121 @@
+id_cliente,ragione_sociale,partita_iva,categoria_prevalente,comune,provincia,sigla,regione
+C000001,Acqua Nord S.r.l.,28196001338,Bevande,Coriano,Rimini,RN,Emilia-Romagna
+C000002,Oil Group S.p.A.,50265423511,Liquidi,Castiglione di Sicilia,Catania,CT,Sicilia
+C000003,Paper Nord S.p.A.,17816184959,Carta,Niardo,Brescia,BS,Lombardia
+C000004,Tech Italia S.r.l.,23164752553,Elettronica,Piedimonte Matese,Caserta,CE,Campania
+C000005,Casa Group S.r.l.,74835030564,Arredamento,Roccanova,Potenza,PZ,Basilicata
+C000006,Drink Nord S.r.l.,77242388496,Bevande,Casaletto Spartano,Salerno,SA,Campania
+C000007,Energy Nord S.r.l.,38710122691,Liquidi,Angera,Varese,VA,Lombardia
+C000008,Print Sud S.p.A.,11845146270,Carta,Grimaldi,Cosenza,CS,Calabria
+C000009,Home Group S.r.l.,58932528809,Arredamento,Casaletto Ceredano,Cremona,CR,Lombardia
+C000010,Cemento Italia S.r.l.,53039117182,Materiale edile,Montecorvino Pugliano,Salerno,SA,Campania
+C000011,Trend Group S.p.A.,73834657871,Abbigliamento,Berzano di San Pietro,Asti,AT,Piemonte
+C000012,Digital Italia S.p.A.,93930103105,Elettronica,Sedico,Belluno,BL,Veneto
+C000013,Viva Group S.p.A.,48299737631,Bevande,Omignano,Salerno,SA,Campania
+C000014,Fresh Nord S.p.A.,11065133387,Bevande,Cortemaggiore,Piacenza,PC,Emilia-Romagna
+C000015,Bio Group S.p.A.,36064746872,Farmaceutico,Chiarano,Treviso,TV,Veneto
+C000016,Electro Group S.r.l.,90500978820,Elettronica,Partinico,Palermo,PA,Sicilia
+C000017,Port Logistics Group S.r.l.,46193990916,Container,Egna,Bolzano/Bozen,BZ,Trentino-Alto Adige/Südtirol
+C000018,Fuel Nord S.p.A.,63462475107,Liquidi,Levate,Bergamo,BG,Lombardia
+C000019,Fuel Italia S.r.l.,94251354278,Liquidi,Sonnino,Latina,LT,Lazio
+C000020,Home Italia S.p.A.,22411824493,Arredamento,Salento,Salerno,SA,Campania
+C000021,Costruzioni Nord S.p.A.,11640052427,Materiale edile,Castelluccio Inferiore,Potenza,PZ,Basilicata
+C000022,Sea Bridge Italia S.r.l.,38059826204,Container,L'Aquila,L'Aquila,AQ,Abruzzo
+C000023,Edil Nord S.r.l.,25869232260,Materiale edile,Sesta Godano,La Spezia,SP,Liguria
+C000024,Style Sud S.r.l.,26073375433,Abbigliamento,Mombercelli,Asti,AT,Piemonte
+C000025,Sapori Sud S.p.A.,24586850142,Alimentare,Palestro,Pavia,PV,Lombardia
+C000026,Tank Italia S.r.l.,65698169340,Liquidi,San Bartolomeo Val Cavargna,Como,CO,Lombardia
+C000027,Paper Group S.p.A.,69514846564,Carta,Grammichele,Catania,CT,Sicilia
+C000028,Intermodal Group S.p.A.,72994680443,Container,Avelengo,Bolzano/Bozen,BZ,Trentino-Alto Adige/Südtirol
+C000029,Office Nord S.p.A.,48721489513,Carta,Lazzate,Monza e della Brianza,MB,Lombardia
+C000030,Arredo Group S.r.l.,47917693676,Arredamento,Mergo,Ancona,AN,Marche
+C000031,Digital Italia S.r.l.,42870831727,Elettronica,Montemurlo,Prato,PO,Toscana
+C000032,Container Hub Nord S.p.A.,96872774348,Container,Amblar-Don,Trento,TN,Trentino-Alto Adige/Südtirol
+C000033,Medical Nord S.p.A.,53455812236,Farmaceutico,Larino,Campobasso,CB,Molise
+C000034,Fashion Italia S.p.A.,97603669096,Abbigliamento,Rovellasca,Como,CO,Lombardia
+C000035,Pharma Nord S.p.A.,78893734670,Farmaceutico,Corsione,Asti,AT,Piemonte
+C000036,Grafica Sud S.r.l.,39806990162,Carta,Montella,Avellino,AV,Campania
+C000037,Medical Italia S.p.A.,47556464170,Farmaceutico,Montechiarugolo,Parma,PR,Emilia-Romagna
+C000038,Port Logistics Nord S.r.l.,10330923271,Container,Piedimonte Matese,Caserta,CE,Campania
+C000039,Fluid Sud S.p.A.,39912419049,Liquidi,Faicchio,Benevento,BN,Campania
+C000040,Print Group S.r.l.,41491905865,Carta,Stio,Salerno,SA,Campania
+C000041,Viva Nord S.r.l.,81657262849,Bevande,Racale,Lecce,LE,Puglia
+C000042,Sea Bridge Sud S.p.A.,55314737996,Container,Acquaviva delle Fonti,-,BA,Puglia
+C000043,Edil Sud S.p.A.,45454948083,Materiale edile,San Gregorio di Catania,Catania,CT,Sicilia
+C000044,Drink Sud S.p.A.,47770143634,Bevande,Castagnole Piemonte,-,TO,Piemonte
+C000045,Tank Sud S.p.A.,95574443135,Liquidi,Castel d'Azzano,Verona,VR,Veneto
+C000046,Viva Group S.r.l.,84989413435,Bevande,Boffalora sopra Ticino,-,MI,Lombardia
+C000047,Style Italia S.r.l.,18427109477,Abbigliamento,Solesino,Padova,PD,Veneto
+C000048,Salus Group S.r.l.,81167190229,Farmaceutico,Mussomeli,Caltanissetta,CL,Sicilia
+C000049,Grafica Italia S.r.l.,43412328120,Carta,Caerano di San Marco,Treviso,TV,Veneto
+C000050,Digital Nord S.r.l.,34994717464,Elettronica,Montano Antilia,Salerno,SA,Campania
+C000051,Container Hub Sud S.p.A.,16594013990,Container,Flaibano,Udine,UD,Friuli-Venezia Giulia
+C000052,Home Italia S.r.l.,84296717565,Arredamento,Camisano,Cremona,CR,Lombardia
+C000053,Edil Group S.p.A.,84680715451,Materiale edile,Cogliate,Monza e della Brianza,MB,Lombardia
+C000054,Office Italia S.p.A.,48597703482,Carta,Serravalle a Po,Mantova,MN,Lombardia
+C000055,Design Sud S.r.l.,42480861317,Arredamento,Partanna,Trapani,TP,Sicilia
+C000056,Intermodal Italia S.p.A.,75840449972,Container,Sant'Eufemia a Maiella,Pescara,PE,Abruzzo
+C000057,Medica Sud S.p.A.,96753396360,Farmaceutico,Cerro al Volturno,Isernia,IS,Molise
+C000058,Cemento Sud S.p.A.,37028951718,Materiale edile,Besenzone,Piacenza,PC,Emilia-Romagna
+C000059,Pharma Group S.p.A.,31745961586,Farmaceutico,Ne,-,GE,Liguria
+C000060,Edil Nord S.p.A.,33869222196,Materiale edile,Marcellina,-,RM,Lazio
+C000061,Fluid Sud S.r.l.,57407482175,Liquidi,San Cono,Catania,CT,Sicilia
+C000062,Casa Sud S.p.A.,19743953394,Arredamento,Scansano,Grosseto,GR,Toscana
+C000063,Moda Italia S.p.A.,19521456232,Abbigliamento,Averara,Bergamo,BG,Lombardia
+C000064,Terminal Cargo Nord S.r.l.,84517123685,Container,Genola,Cuneo,CN,Piemonte
+C000065,Fresh Italia S.p.A.,85496513709,Bevande,Isola della Scala,Verona,VR,Veneto
+C000066,Terminal Cargo Group S.r.l.,84612004711,Container,San Martino sulla Marrucina,Chieti,CH,Abruzzo
+C000067,Future Group S.p.A.,96926179640,Elettronica,Acqui Terme,Alessandria,AL,Piemonte
+C000068,Costruzioni Sud S.p.A.,61585064317,Materiale edile,Strambino,-,TO,Piemonte
+C000069,Drink Italia S.r.l.,42931839335,Bevande,Flero,Brescia,BS,Lombardia
+C000070,Elegance Italia S.p.A.,32842102053,Abbigliamento,Ospedaletto,Trento,TN,Trentino-Alto Adige/Südtirol
+C000071,Medica Group S.r.l.,94700766177,Farmaceutico,Marene,Cuneo,CN,Piemonte
+C000072,Energy Italia S.r.l.,93673657661,Liquidi,Agliè,-,TO,Piemonte
+C000073,Cemento Nord S.p.A.,37111161528,Materiale edile,Capannori,Lucca,LU,Toscana
+C000074,Delizie Nord S.r.l.,70494519832,Alimentare,Ciriè,-,TO,Piemonte
+C000075,Oil Italia S.p.A.,77976438156,Liquidi,Motta Baluffi,Cremona,CR,Lombardia
+C000076,Beverage Sud S.p.A.,79003432445,Bevande,San Gregorio da Sassola,-,RM,Lazio
+C000077,Acqua Sud S.p.A.,78388516060,Bevande,Casole d'Elsa,Siena,SI,Toscana
+C000078,Container Hub Group S.p.A.,33124329212,Container,Mirabello Sannitico,Campobasso,CB,Molise
+C000079,Bio Sud S.p.A.,62717744905,Farmaceutico,Brugine,Padova,PD,Veneto
+C000080,Port Logistics Nord S.p.A.,15411998679,Container,Torrebruna,Chieti,CH,Abruzzo
+C000081,Port Logistics Sud S.r.l.,88207151820,Container,Monghidoro,-,BO,Emilia-Romagna
+C000082,Smart Sud S.r.l.,56659051518,Elettronica,Casanova Elvo,Vercelli,VC,Piemonte
+C000083,Grafica Nord S.r.l.,35462914865,Carta,Cervarese Santa Croce,Padova,PD,Veneto
+C000084,Beverage Italia S.r.l.,39622292706,Bevande,Monterubbiano,Fermo,FM,Marche
+C000085,Paper Nord S.r.l.,25220472779,Carta,Bosisio Parini,Lecco,LC,Lombardia
+C000086,Gusto Italia S.p.A.,38986143410,Alimentare,Costa Volpino,Bergamo,BG,Lombardia
+C000087,Tank Group S.p.A.,28518888806,Liquidi,Verzuolo,Cuneo,CN,Piemonte
+C000088,Pharma Sud S.p.A.,15153195205,Farmaceutico,Chiarano,Treviso,TV,Veneto
+C000089,Terminal Cargo Group S.p.A.,82217043030,Container,Inarzo,Varese,VA,Lombardia
+C000090,Building Sud S.p.A.,44505415667,Materiale edile,Poggio Moiano,Rieti,RI,Lazio
+C000091,Grafica Group S.p.A.,68416169284,Carta,Grottaminarda,Avellino,AV,Campania
+C000092,Edil Italia S.p.A.,57962757059,Materiale edile,Grimacco,Udine,UD,Friuli-Venezia Giulia
+C000093,Electro Nord S.p.A.,19275571928,Elettronica,Val della Torre,-,TO,Piemonte
+C000094,Future Nord S.p.A.,31727155188,Elettronica,Maranello,Modena,MO,Emilia-Romagna
+C000095,Living Group S.r.l.,93132370589,Arredamento,Roccantica,Rieti,RI,Lazio
+C000096,Cemento Group S.r.l.,77866912517,Materiale edile,Bressanone,Bolzano/Bozen,BZ,Trentino-Alto Adige/Südtirol
+C000097,Medica Nord S.r.l.,99226801824,Farmaceutico,Lovere,Bergamo,BG,Lombardia
+C000098,Fashion Nord S.r.l.,94143842498,Abbigliamento,Campagnatico,Grosseto,GR,Toscana
+C000099,Oil Sud S.p.A.,57364710276,Liquidi,Varenna,Lecco,LC,Lombardia
+C000100,Digital Sud S.p.A.,57016873395,Elettronica,Gioia dei Marsi,L'Aquila,AQ,Abruzzo
+C000101,Gusto Nord S.p.A.,84801624565,Alimentare,Molinara,Benevento,BN,Campania
+C000102,Alimenti Italia S.r.l.,51687849912,Alimentare,Dipignano,Cosenza,CS,Calabria
+C000103,Cemento Sud S.r.l.,92595269495,Materiale edile,Cocullo,L'Aquila,AQ,Abruzzo
+C000104,Fuel Group S.r.l.,38962309130,Liquidi,Prelà,Imperia,IM,Liguria
+C000105,Salus Sud S.r.l.,46897028385,Farmaceutico,Viggiano,Potenza,PZ,Basilicata
+C000106,Print Nord S.r.l.,51574733848,Carta,Ariano Irpino,Avellino,AV,Campania
+C000107,Arredo Italia S.r.l.,93301657120,Arredamento,Castelmarte,Como,CO,Lombardia
+C000108,Intermodal Sud S.p.A.,44540193802,Container,Farra di Soligo,Treviso,TV,Veneto
+C000109,Cartotecnica Italia S.p.A.,34004991547,Carta,Giffone,Reggio di Calabria,RC,Calabria
+C000110,Container Hub Sud S.r.l.,84315274205,Container,Sant'Agata Fossili,Alessandria,AL,Piemonte
+C000111,Tech Nord S.p.A.,55499045301,Elettronica,Bovolenta,Padova,PD,Veneto
+C000112,Salus Group S.p.A.,51459332727,Farmaceutico,Terme Vigliatore,Messina,ME,Sicilia
+C000113,Delizie Group S.r.l.,97139718707,Alimentare,Montenero Val Cocchiara,Isernia,IS,Molise
+C000114,Elegance Sud S.p.A.,97406403910,Abbigliamento,Agliano Terme,Asti,AT,Piemonte
+C000115,Print Italia S.r.l.,61286823004,Carta,Pico,Frosinone,FR,Lazio
+C000116,Elegance Nord S.r.l.,69953428364,Abbigliamento,Arquà Polesine,Rovigo,RO,Veneto
+C000117,Casa Group S.p.A.,15685662462,Arredamento,Pozzallo,Ragusa,RG,Sicilia
+C000118,Sea Bridge Group S.r.l.,37086688263,Container,Castel Frentano,Chieti,CH,Abruzzo
+C000119,Arredo Nord S.r.l.,61830469901,Arredamento,Colle di Tora,Rieti,RI,Lazio
+C000120,Costruzioni Sud S.r.l.,64777252287,Materiale edile,Pescosolido,Frosinone,FR,Lazio

@@ -1,0 +1,501 @@
+id_richiesta,id_cliente,data_richiesta,data_consegna_prevista,comune_origine,provincia_origine,regione_origine,comune_destinazione,provincia_destinazione,regione_destinazione,categoria_merce,tipo_veicolo,peso_kg,stato_richiesta
+R000001,C000024,2026-12-22,2026-12-22,Bassignana,Alessandria,Piemonte,Biccari,Foggia,Puglia,Alimentare,Frigorifero,2935,COMPLETATA
+R000002,C000050,2026-04-15,2026-04-21,Montano Antilia,Salerno,Campania,Cinaglio,Asti,Piemonte,Arredamento,Centinato,799,COMPLETATA
+R000003,C000077,2026-07-01,2026-07-06,Casole d'Elsa,Siena,Toscana,Cellarengo,Asti,Piemonte,Container,Portacontainer,27439,COMPLETATA
+R000004,C000033,2026-02-04,2026-02-04,Sant'Angelo Limosano,Campobasso,Molise,Lauriano,-,Piemonte,Alimentare,Centinato,6374,COMPLETATA
+R000005,C000076,2026-02-13,2026-02-15,San Gregorio da Sassola,-,Lazio,Albugnano,Asti,Piemonte,Bevande,Cassonato,14005,COMPLETATA
+R000006,C000119,2026-02-13,2026-02-20,Colle di Tora,Rieti,Lazio,Squillace,Catanzaro,Calabria,Arredamento,Centinato,1538,COMPLETATA
+R000007,C000006,2026-06-26,2026-06-28,Casaletto Spartano,Salerno,Campania,Candelo,Biella,Piemonte,Bevande,Centinato,28699,COMPLETATA
+R000008,C000102,2026-11-16,2026-11-17,Dipignano,Cosenza,Calabria,Artogne,Brescia,Lombardia,Alimentare,Frigorifero,23184,COMPLETATA
+R000009,C000011,2026-01-07,2026-01-10,Berzano di San Pietro,Asti,Piemonte,Cervaro,Frosinone,Lazio,Liquidi,Cisterna,15305,COMPLETATA
+R000010,C000085,2026-04-27,2026-05-02,Bosisio Parini,Lecco,Lombardia,Carrù,Cuneo,Piemonte,Carta,Centinato,18979,COMPLETATA
+R000011,C000063,2026-09-17,2026-09-21,Averara,Bergamo,Lombardia,Spinadesco,Cremona,Lombardia,Abbigliamento,Centinato,5746,COMPLETATA
+R000012,C000052,2026-01-09,2026-01-14,Solaro,-,Lombardia,Verano,Bolzano/Bozen,Trentino-Alto Adige/Südtirol,Carta,Cassonato,11194,COMPLETATA
+R000013,C000044,2026-05-25,2026-05-27,Castagnole Piemonte,-,Piemonte,Doues,Valle d'Aosta/Vallée d'Aoste,Valle d'Aosta/Vallée d'Aoste,Farmaceutico,Frigorifero,10874,COMPLETATA
+R000014,C000030,2026-10-11,2026-10-17,Mergo,Ancona,Marche,Piraino,Messina,Sicilia,Arredamento,Cassonato,5555,COMPLETATA
+R000015,C000001,2026-03-06,2026-03-08,Coriano,Rimini,Emilia-Romagna,Macerata Feltria,Pesaro e Urbino,Marche,Bevande,Cassonato,4349,COMPLETATA
+R000016,C000065,2026-02-20,2026-02-22,Isola della Scala,Verona,Veneto,San Genesio ed Uniti,Pavia,Lombardia,Bevande,Centinato,19160,ACCETTATA
+R000017,C000002,2026-11-08,2026-11-11,Castiglione di Sicilia,Catania,Sicilia,San Germano Chisone,-,Piemonte,Liquidi,Cisterna,23334,COMPLETATA
+R000018,C000022,2026-03-09,2026-03-17,L'Aquila,L'Aquila,Abruzzo,Traves,-,Piemonte,Container,Portacontainer,12073,COMPLETATA
+R000019,C000092,2026-07-07,2026-07-13,Grimacco,Udine,Friuli-Venezia Giulia,Gualtieri,Reggio nell'Emilia,Emilia-Romagna,Materiale edile,Cassonato,17246,COMPLETATA
+R000020,C000037,2026-06-14,2026-06-21,Jolanda di Savoia,Ferrara,Emilia-Romagna,Vernazza,La Spezia,Liguria,Materiale edile,Cassonato,11798,COMPLETATA
+R000021,C000039,2026-05-11,2026-05-15,Faicchio,Benevento,Campania,Cabella Ligure,Alessandria,Piemonte,Elettronica,Centinato,4000,COMPLETATA
+R000022,C000076,2026-05-30,2026-06-04,San Gregorio da Sassola,-,Lazio,Taceno,Lecco,Lombardia,Arredamento,Cassonato,13375,COMPLETATA
+R000023,C000064,2026-12-07,2026-12-15,Grosso,-,Piemonte,Camagna Monferrato,Alessandria,Piemonte,Container,Portacontainer,25126,COMPLETATA
+R000024,C000098,2026-08-08,2026-08-12,Campagnatico,Grosseto,Toscana,San Quirino,Pordenone,Friuli-Venezia Giulia,Abbigliamento,Centinato,1240,COMPLETATA
+R000025,C000085,2026-06-13,2026-06-18,Bosisio Parini,Lecco,Lombardia,Cortiglione,Asti,Piemonte,Carta,Centinato,20093,COMPLETATA
+R000026,C000094,2026-09-12,2026-09-15,Maranello,Modena,Emilia-Romagna,Roverbella,Mantova,Lombardia,Elettronica,Centinato,1066,COMPLETATA
+R000027,C000005,2026-02-04,2026-02-05,Carbone,Potenza,Basilicata,Taviano,Lecce,Puglia,Farmaceutico,Frigorifero,7102,COMPLETATA
+R000028,C000087,2026-06-22,2026-06-25,Verzuolo,Cuneo,Piemonte,Bosia,Cuneo,Piemonte,Liquidi,Cisterna,17816,COMPLETATA
+R000029,C000004,2026-02-24,2026-02-27,Solofra,Avellino,Campania,Lasnigo,Como,Lombardia,Elettronica,Centinato,401,COMPLETATA
+R000030,C000043,2026-06-23,2026-06-29,San Gregorio di Catania,Catania,Sicilia,Anterivo,Bolzano/Bozen,Trentino-Alto Adige/Südtirol,Materiale edile,Cassonato,4198,COMPLETATA
+R000031,C000037,2026-02-26,2026-02-27,Dovadola,Forlì-Cesena,Emilia-Romagna,Luzzana,Bergamo,Lombardia,Bevande,Centinato,22232,ANNULLATA
+R000032,C000087,2026-12-08,2026-12-13,Verzuolo,Cuneo,Piemonte,Mignano Monte Lungo,Caserta,Campania,Liquidi,Cisterna,18971,COMPLETATA
+R000033,C000024,2026-11-15,2026-11-20,Mombercelli,Asti,Piemonte,Pasturana,Alessandria,Piemonte,Abbigliamento,Centinato,5130,COMPLETATA
+R000034,C000084,2026-11-06,2026-11-08,Monterubbiano,Fermo,Marche,Pusiano,Como,Lombardia,Bevande,Centinato,27198,COMPLETATA
+R000035,C000054,2026-04-13,2026-04-18,Serravalle a Po,Mantova,Lombardia,San Vittore del Lazio,Frosinone,Lazio,Carta,Cassonato,21442,COMPLETATA
+R000036,C000043,2026-02-05,2026-02-09,Monreale,Palermo,Sicilia,Travo,Piacenza,Emilia-Romagna,Abbigliamento,Centinato,4934,COMPLETATA
+R000037,C000037,2026-07-19,2026-07-20,Montechiarugolo,Parma,Emilia-Romagna,Vicolungo,Novara,Piemonte,Farmaceutico,Frigorifero,6902,COMPLETATA
+R000038,C000057,2026-04-06,2026-04-07,Cerro al Volturno,Isernia,Molise,Montevarchi,Arezzo,Toscana,Farmaceutico,Frigorifero,8072,ACCETTATA
+R000039,C000076,2026-05-18,2026-05-19,San Gregorio da Sassola,-,Lazio,Urago d'Oglio,Brescia,Lombardia,Alimentare,Centinato,27212,COMPLETATA
+R000040,C000057,2026-07-26,2026-07-26,Cerro al Volturno,Isernia,Molise,Arcade,Treviso,Veneto,Farmaceutico,Frigorifero,1404,COMPLETATA
+R000041,C000033,2026-10-25,2026-10-26,Larino,Campobasso,Molise,Sella Giudicarie,Trento,Trentino-Alto Adige/Südtirol,Farmaceutico,Frigorifero,9317,COMPLETATA
+R000042,C000016,2026-01-24,2026-01-29,Partinico,Palermo,Sicilia,Zignago,La Spezia,Liguria,Elettronica,Centinato,3149,COMPLETATA
+R000043,C000118,2026-06-12,2026-06-17,Castel Frentano,Chieti,Abruzzo,Valle di Cadore,Belluno,Veneto,Container,Portacontainer,11056,COMPLETATA
+R000044,C000120,2026-07-12,2026-07-19,Pescosolido,Frosinone,Lazio,Sant'Angelo in Pontano,Macerata,Marche,Materiale edile,Cassonato,25170,COMPLETATA
+R000045,C000022,2026-07-18,2026-07-25,Guilmi,Chieti,Abruzzo,Pitigliano,Grosseto,Toscana,Container,Portacontainer,11945,COMPLETATA
+R000046,C000022,2026-12-22,2026-12-26,L'Aquila,L'Aquila,Abruzzo,Gioia dei Marsi,L'Aquila,Abruzzo,Arredamento,Cassonato,17356,COMPLETATA
+R000047,C000087,2026-02-28,2026-03-03,Camino,Alessandria,Piemonte,Castelbellino,Ancona,Marche,Liquidi,Cisterna,26492,COMPLETATA
+R000048,C000085,2026-04-14,2026-04-15,Bosisio Parini,Lecco,Lombardia,Callabiana,Biella,Piemonte,Farmaceutico,Frigorifero,10411,COMPLETATA
+R000049,C000076,2026-09-29,2026-10-03,San Gregorio da Sassola,-,Lazio,Arsoli,-,Lazio,Abbigliamento,Centinato,2379,COMPLETATA
+R000050,C000057,2026-09-23,2026-09-24,Cerro al Volturno,Isernia,Molise,Altivole,Treviso,Veneto,Farmaceutico,Frigorifero,7561,ACCETTATA
+R000051,C000094,2026-04-27,2026-05-01,Cavriago,Reggio nell'Emilia,Emilia-Romagna,Sospiro,Cremona,Lombardia,Elettronica,Centinato,2076,COMPLETATA
+R000052,C000069,2026-10-02,2026-10-03,Flero,Brescia,Lombardia,Sarmato,Piacenza,Emilia-Romagna,Bevande,Cassonato,23365,COMPLETATA
+R000053,C000099,2026-12-14,2026-12-17,Varenna,Lecco,Lombardia,Valmozzola,Parma,Emilia-Romagna,Liquidi,Cisterna,5022,ANNULLATA
+R000054,C000108,2026-02-12,2026-02-18,Fiesso d'Artico,-,Veneto,Carpineti,Reggio nell'Emilia,Emilia-Romagna,Arredamento,Centinato,9479,COMPLETATA
+R000055,C000078,2026-09-25,2026-10-01,Mirabello Sannitico,Campobasso,Molise,Robecco d'Oglio,Cremona,Lombardia,Container,Portacontainer,20010,COMPLETATA
+R000056,C000012,2026-07-17,2026-07-22,Sedico,Belluno,Veneto,Rognano,Pavia,Lombardia,Elettronica,Centinato,593,COMPLETATA
+R000057,C000083,2026-05-24,2026-05-24,Cervarese Santa Croce,Padova,Veneto,Ambivere,Bergamo,Lombardia,Farmaceutico,Frigorifero,3801,COMPLETATA
+R000058,C000045,2026-11-21,2026-11-24,Castel d'Azzano,Verona,Veneto,Bormida,Savona,Liguria,Liquidi,Cisterna,29679,COMPLETATA
+R000059,C000066,2026-08-05,2026-08-13,San Martino sulla Marrucina,Chieti,Abruzzo,Calcinate,Bergamo,Lombardia,Container,Portacontainer,16981,COMPLETATA
+R000060,C000052,2026-07-13,2026-07-19,Camisano,Cremona,Lombardia,Gressoney-Saint-Jean,Valle d'Aosta/Vallée d'Aoste,Valle d'Aosta/Vallée d'Aoste,Arredamento,Centinato,4535,ANNULLATA
+R000061,C000038,2026-07-20,2026-07-30,Piedimonte Matese,Caserta,Campania,Montecchio,Terni,Umbria,Container,Portacontainer,18131,COMPLETATA
+R000062,C000092,2026-06-24,2026-06-30,Grimacco,Udine,Friuli-Venezia Giulia,San Giorgio di Mantova,Mantova,Lombardia,Materiale edile,Cassonato,20887,COMPLETATA
+R000063,C000006,2026-06-20,2026-06-24,Casaletto Spartano,Salerno,Campania,Arnad,Valle d'Aosta/Vallée d'Aoste,Valle d'Aosta/Vallée d'Aoste,Arredamento,Cassonato,8399,COMPLETATA
+R000064,C000117,2026-07-12,2026-07-15,Pozzallo,Ragusa,Sicilia,Spino d'Adda,Cremona,Lombardia,Carta,Centinato,27991,COMPLETATA
+R000065,C000113,2026-04-02,2026-04-02,Montenero Val Cocchiara,Isernia,Molise,Alto Reno Terme,-,Emilia-Romagna,Alimentare,Frigorifero,951,ANNULLATA
+R000066,C000050,2026-02-18,2026-02-21,Montano Antilia,Salerno,Campania,San Pietro di Feletto,Treviso,Veneto,Elettronica,Centinato,1697,COMPLETATA
+R000067,C000038,2026-07-13,2026-07-22,Sirignano,Avellino,Campania,Frigento,Avellino,Campania,Container,Portacontainer,15091,COMPLETATA
+R000068,C000099,2026-09-28,2026-10-01,Varenna,Lecco,Lombardia,Sant'Egidio alla Vibrata,Teramo,Abruzzo,Liquidi,Cisterna,19335,COMPLETATA
+R000069,C000012,2026-04-24,2026-04-27,Sedico,Belluno,Veneto,Casorate Sempione,Varese,Lombardia,Elettronica,Centinato,275,COMPLETATA
+R000070,C000085,2026-07-26,2026-07-30,Bosisio Parini,Lecco,Lombardia,Fiamignano,Rieti,Lazio,Carta,Centinato,11860,COMPLETATA
+R000071,C000017,2026-10-01,2026-10-08,Egna,Bolzano/Bozen,Trentino-Alto Adige/Südtirol,Varenna,Lecco,Lombardia,Container,Portacontainer,13868,ACCETTATA
+R000072,C000033,2026-05-16,2026-05-18,Larino,Campobasso,Molise,Tortona,Alessandria,Piemonte,Farmaceutico,Frigorifero,8418,COMPLETATA
+R000073,C000022,2026-01-28,2026-02-02,L'Aquila,L'Aquila,Abruzzo,Rubiana,-,Piemonte,Container,Portacontainer,26673,COMPLETATA
+R000074,C000055,2026-07-30,2026-08-06,Partanna,Trapani,Sicilia,Montagna,Bolzano/Bozen,Trentino-Alto Adige/Südtirol,Arredamento,Centinato,1658,COMPLETATA
+R000075,C000031,2026-05-17,2026-05-19,Castiglione della Pescaia,Grosseto,Toscana,Ceggia,-,Veneto,Carta,Cassonato,19228,COMPLETATA
+R000076,C000096,2026-10-10,2026-10-11,Dro,Trento,Trentino-Alto Adige/Südtirol,Arnad,Valle d'Aosta/Vallée d'Aoste,Valle d'Aosta/Vallée d'Aoste,Farmaceutico,Frigorifero,4675,COMPLETATA
+R000077,C000054,2026-10-08,2026-10-13,Serravalle a Po,Mantova,Lombardia,Bagnacavallo,Ravenna,Emilia-Romagna,Carta,Cassonato,10458,COMPLETATA
+R000078,C000115,2026-05-08,2026-05-12,Pico,Frosinone,Lazio,Teolo,Padova,Veneto,Elettronica,Centinato,3869,COMPLETATA
+R000079,C000083,2026-05-24,2026-05-28,Cervarese Santa Croce,Padova,Veneto,Mesola,Ferrara,Emilia-Romagna,Carta,Cassonato,22038,COMPLETATA
+R000080,C000062,2026-09-03,2026-09-07,Villafranca in Lunigiana,Massa-Carrara,Toscana,Castellazzo Novarese,Novara,Piemonte,Arredamento,Cassonato,5165,ANNULLATA
+R000081,C000107,2026-07-17,2026-07-22,Castelmarte,Como,Lombardia,Piuro,Sondrio,Lombardia,Arredamento,Cassonato,3282,COMPLETATA
+R000082,C000049,2026-04-09,2026-04-13,Caerano di San Marco,Treviso,Veneto,Solesino,Padova,Veneto,Carta,Centinato,4783,ANNULLATA
+R000083,C000048,2026-02-07,2026-02-11,Mussomeli,Caltanissetta,Sicilia,Castellino del Biferno,Campobasso,Molise,Materiale edile,Cassonato,8654,COMPLETATA
+R000084,C000071,2026-05-18,2026-05-19,Marene,Cuneo,Piemonte,Pesco Sannita,Benevento,Campania,Farmaceutico,Frigorifero,5195,ANNULLATA
+R000085,C000027,2026-03-22,2026-03-26,Aragona,Agrigento,Sicilia,Santa Cristina d'Aspromonte,Reggio di Calabria,Calabria,Carta,Cassonato,3462,ACCETTATA
+R000086,C000083,2026-04-12,2026-04-17,Cervarese Santa Croce,Padova,Veneto,San Vito dei Normanni,Brindisi,Puglia,Carta,Cassonato,23803,COMPLETATA
+R000087,C000081,2026-11-18,2026-11-28,Monghidoro,-,Emilia-Romagna,Montopoli in Val d'Arno,Pisa,Toscana,Container,Portacontainer,23251,COMPLETATA
+R000088,C000013,2026-10-08,2026-10-09,Omignano,Salerno,Campania,San Biagio della Cima,Imperia,Liguria,Bevande,Centinato,3020,COMPLETATA
+R000089,C000050,2026-11-03,2026-11-05,Montano Antilia,Salerno,Campania,Pontevico,Brescia,Lombardia,Elettronica,Centinato,1110,ANNULLATA
+R000090,C000026,2026-02-15,2026-02-17,San Bartolomeo Val Cavargna,Como,Lombardia,Tramonti di Sotto,Pordenone,Friuli-Venezia Giulia,Liquidi,Cisterna,15864,COMPLETATA
+R000091,C000068,2026-06-12,2026-06-12,Strambino,-,Piemonte,Murisengo,Alessandria,Piemonte,Farmaceutico,Frigorifero,11243,ANNULLATA
+R000092,C000033,2026-08-21,2026-08-22,Larino,Campobasso,Molise,Deruta,Perugia,Umbria,Farmaceutico,Frigorifero,10194,COMPLETATA
+R000093,C000105,2026-06-21,2026-06-23,Viggiano,Potenza,Basilicata,Monteriggioni,Siena,Toscana,Farmaceutico,Frigorifero,2298,COMPLETATA
+R000094,C000120,2026-09-16,2026-09-23,Posta Fibreno,Frosinone,Lazio,Riva del Garda,Trento,Trentino-Alto Adige/Südtirol,Materiale edile,Cassonato,26621,COMPLETATA
+R000095,C000043,2026-01-20,2026-01-24,San Gregorio di Catania,Catania,Sicilia,Bugnara,L'Aquila,Abruzzo,Materiale edile,Cassonato,6892,COMPLETATA
+R000096,C000096,2026-07-08,2026-07-12,Bressanone,Bolzano/Bozen,Trentino-Alto Adige/Südtirol,Camporosso,Imperia,Liguria,Materiale edile,Cassonato,26127,COMPLETATA
+R000097,C000078,2026-07-26,2026-08-03,Mirabello Sannitico,Campobasso,Molise,Mesero,-,Lombardia,Container,Portacontainer,17189,COMPLETATA
+R000098,C000099,2026-10-12,2026-10-14,Varenna,Lecco,Lombardia,San Benedetto in Perillis,L'Aquila,Abruzzo,Abbigliamento,Centinato,6704,COMPLETATA
+R000099,C000043,2026-11-26,2026-12-02,San Gregorio di Catania,Catania,Sicilia,Capriati a Volturno,Caserta,Campania,Materiale edile,Cassonato,7168,COMPLETATA
+R000100,C000023,2026-01-16,2026-01-19,Sesta Godano,La Spezia,Liguria,Ugento,Lecce,Puglia,Materiale edile,Cassonato,8169,COMPLETATA
+R000101,C000075,2026-11-02,2026-11-05,Collio,Brescia,Lombardia,Rosarno,Reggio di Calabria,Calabria,Materiale edile,Cassonato,28665,COMPLETATA
+R000102,C000084,2026-05-03,2026-05-05,Monte Giberto,Fermo,Marche,Fontevivo,Parma,Emilia-Romagna,Bevande,Centinato,29202,COMPLETATA
+R000103,C000078,2026-12-24,2027-01-01,Mirabello Sannitico,Campobasso,Molise,Palestrina,-,Lazio,Container,Portacontainer,14471,COMPLETATA
+R000104,C000114,2026-09-30,2026-10-04,Agliano Terme,Asti,Piemonte,Burolo,-,Piemonte,Abbigliamento,Centinato,4703,COMPLETATA
+R000105,C000071,2026-02-24,2026-02-24,Marene,Cuneo,Piemonte,Chitignano,Arezzo,Toscana,Farmaceutico,Frigorifero,4875,ANNULLATA
+R000106,C000113,2026-11-20,2026-11-20,Montenero Val Cocchiara,Isernia,Molise,Ternate,Varese,Lombardia,Alimentare,Frigorifero,10927,COMPLETATA
+R000107,C000014,2026-05-11,2026-05-12,Cortemaggiore,Piacenza,Emilia-Romagna,Cave,-,Lazio,Bevande,Cassonato,8798,COMPLETATA
+R000108,C000114,2026-04-03,2026-04-07,Agliano Terme,Asti,Piemonte,Marano Lagunare,Udine,Friuli-Venezia Giulia,Carta,Cassonato,7370,COMPLETATA
+R000109,C000014,2026-12-29,2026-12-31,Cortemaggiore,Piacenza,Emilia-Romagna,Caporciano,L'Aquila,Abruzzo,Bevande,Cassonato,14751,COMPLETATA
+R000110,C000047,2026-11-21,2026-11-24,Cona,-,Veneto,Lauro,Avellino,Campania,Abbigliamento,Centinato,6561,COMPLETATA
+R000111,C000011,2026-02-06,2026-02-12,Berzano di San Pietro,Asti,Piemonte,Cividate al Piano,Bergamo,Lombardia,Materiale edile,Cassonato,4431,COMPLETATA
+R000112,C000012,2026-11-23,2026-11-24,Sedico,Belluno,Veneto,Oricola,L'Aquila,Abruzzo,Bevande,Cassonato,21107,COMPLETATA
+R000113,C000077,2026-05-07,2026-05-09,Casole d'Elsa,Siena,Toscana,Maretto,Asti,Piemonte,Bevande,Cassonato,4318,COMPLETATA
+R000114,C000085,2026-04-02,2026-04-07,Bosisio Parini,Lecco,Lombardia,Pusiano,Como,Lombardia,Carta,Cassonato,10245,COMPLETATA
+R000115,C000099,2026-04-22,2026-04-27,Varenna,Lecco,Lombardia,Bastia Mondovì,Cuneo,Piemonte,Liquidi,Cisterna,7871,COMPLETATA
+R000116,C000004,2026-11-10,2026-11-15,Postiglione,Salerno,Campania,Valgioie,-,Piemonte,Elettronica,Centinato,1989,COMPLETATA
+R000117,C000106,2026-05-15,2026-05-17,Ariano Irpino,Avellino,Campania,Pietrasanta,Lucca,Toscana,Carta,Cassonato,12999,COMPLETATA
+R000118,C000055,2026-10-22,2026-10-26,Partanna,Trapani,Sicilia,Bivona,Agrigento,Sicilia,Arredamento,Cassonato,5452,COMPLETATA
+R000119,C000043,2026-05-17,2026-05-23,San Gregorio di Catania,Catania,Sicilia,Fombio,Lodi,Lombardia,Materiale edile,Cassonato,28551,ANNULLATA
+R000120,C000082,2026-11-23,2026-11-27,Casanova Elvo,Vercelli,Piemonte,Borgo Tossignano,-,Emilia-Romagna,Arredamento,Cassonato,13436,COMPLETATA
+R000121,C000107,2026-03-06,2026-03-09,Castello di Brianza,Lecco,Lombardia,Cancellara,Potenza,Basilicata,Abbigliamento,Centinato,3778,ACCETTATA
+R000122,C000017,2026-11-09,2026-11-16,Egna,Bolzano/Bozen,Trentino-Alto Adige/Südtirol,Nettuno,-,Lazio,Container,Portacontainer,14845,ANNULLATA
+R000123,C000109,2026-05-09,2026-05-14,Giffone,Reggio di Calabria,Calabria,Canneto sull'Oglio,Mantova,Lombardia,Carta,Cassonato,18589,ANNULLATA
+R000124,C000002,2026-03-19,2026-03-21,Castiglione di Sicilia,Catania,Sicilia,Santa Domenica Talao,Cosenza,Calabria,Liquidi,Cisterna,9903,ANNULLATA
+R000125,C000066,2026-11-09,2026-11-17,Montorio al Vomano,Teramo,Abruzzo,San Pancrazio,Bolzano/Bozen,Trentino-Alto Adige/Südtirol,Container,Portacontainer,21267,COMPLETATA
+R000126,C000067,2026-08-22,2026-08-27,Acqui Terme,Alessandria,Piemonte,Bellano,Lecco,Lombardia,Elettronica,Centinato,639,COMPLETATA
+R000127,C000106,2026-11-29,2026-12-03,Ariano Irpino,Avellino,Campania,Sant'Anna d'Alfaedo,Verona,Veneto,Carta,Centinato,16071,COMPLETATA
+R000128,C000096,2026-09-04,2026-09-08,Caldonazzo,Trento,Trentino-Alto Adige/Südtirol,Piaggine,Salerno,Campania,Materiale edile,Cassonato,29122,COMPLETATA
+R000129,C000116,2026-08-03,2026-08-06,Arquà Polesine,Rovigo,Veneto,Uggiano la Chiesa,Lecce,Puglia,Abbigliamento,Centinato,3514,COMPLETATA
+R000130,C000109,2026-10-17,2026-10-20,Giffone,Reggio di Calabria,Calabria,Monterosso Calabro,Vibo Valentia,Calabria,Carta,Cassonato,12752,COMPLETATA
+R000131,C000085,2026-03-02,2026-03-05,Bosisio Parini,Lecco,Lombardia,Sarteano,Siena,Toscana,Carta,Centinato,27793,COMPLETATA
+R000132,C000005,2026-06-21,2026-06-25,Roccanova,Potenza,Basilicata,Bagno di Romagna,Forlì-Cesena,Emilia-Romagna,Arredamento,Centinato,15711,COMPLETATA
+R000133,C000030,2026-07-12,2026-07-18,Mergo,Ancona,Marche,Acquafondata,Frosinone,Lazio,Arredamento,Cassonato,16051,COMPLETATA
+R000134,C000106,2026-01-28,2026-01-31,Ariano Irpino,Avellino,Campania,Ello,Lecco,Lombardia,Carta,Centinato,13166,ACCETTATA
+R000135,C000077,2026-01-25,2026-01-28,Casole d'Elsa,Siena,Toscana,Albiano,Trento,Trentino-Alto Adige/Südtirol,Bevande,Cassonato,17819,COMPLETATA
+R000136,C000108,2026-10-10,2026-10-20,Farra di Soligo,Treviso,Veneto,Castel Gandolfo,-,Lazio,Container,Portacontainer,29934,ANNULLATA
+R000137,C000077,2026-04-15,2026-04-17,Radicondoli,Siena,Toscana,Rodano,-,Lombardia,Bevande,Cassonato,16040,COMPLETATA
+R000138,C000097,2026-12-27,2026-12-28,Lovere,Bergamo,Lombardia,Magenta,-,Lombardia,Farmaceutico,Frigorifero,10902,COMPLETATA
+R000139,C000072,2026-12-21,2026-12-25,Agliè,-,Piemonte,Acquaviva Collecroce,Campobasso,Molise,Liquidi,Cisterna,16019,ACCETTATA
+R000140,C000032,2026-10-29,2026-11-03,Amblar-Don,Trento,Trentino-Alto Adige/Südtirol,Vaccarizzo Albanese,Cosenza,Calabria,Container,Portacontainer,26950,ACCETTATA
+R000141,C000095,2026-09-10,2026-09-16,Roccantica,Rieti,Lazio,Dazio,Sondrio,Lombardia,Arredamento,Cassonato,1334,ANNULLATA
+R000142,C000050,2026-04-18,2026-04-23,Montano Antilia,Salerno,Campania,Coseano,Udine,Friuli-Venezia Giulia,Elettronica,Centinato,2971,ANNULLATA
+R000143,C000080,2026-03-04,2026-03-12,Montelapiano,Chieti,Abruzzo,Tarsia,Cosenza,Calabria,Container,Portacontainer,28292,COMPLETATA
+R000144,C000032,2026-05-24,2026-05-28,Amblar-Don,Trento,Trentino-Alto Adige/Südtirol,Redavalle,Pavia,Lombardia,Abbigliamento,Centinato,1920,COMPLETATA
+R000145,C000105,2026-06-28,2026-06-30,Viggiano,Potenza,Basilicata,Ponte,Benevento,Campania,Farmaceutico,Frigorifero,1979,COMPLETATA
+R000146,C000113,2026-05-10,2026-05-11,Montenero Val Cocchiara,Isernia,Molise,Casaletto Ceredano,Cremona,Lombardia,Alimentare,Frigorifero,22805,COMPLETATA
+R000147,C000101,2026-11-15,2026-11-15,Molinara,Benevento,Campania,Cigliè,Cuneo,Piemonte,Alimentare,Frigorifero,19158,COMPLETATA
+R000148,C000085,2026-04-02,2026-04-04,Bosisio Parini,Lecco,Lombardia,Gignese,Verbano-Cusio-Ossola,Piemonte,Carta,Cassonato,6294,COMPLETATA
+R000149,C000027,2026-10-05,2026-10-10,Grammichele,Catania,Sicilia,Torre d'Arese,Pavia,Lombardia,Carta,Centinato,25520,COMPLETATA
+R000150,C000050,2026-09-01,2026-09-02,Montano Antilia,Salerno,Campania,San Nicolò di Comelico,Belluno,Veneto,Farmaceutico,Frigorifero,3317,COMPLETATA
+R000151,C000062,2026-04-29,2026-05-05,Scansano,Grosseto,Toscana,Bitritto,-,Puglia,Arredamento,Centinato,8653,COMPLETATA
+R000152,C000014,2026-01-31,2026-02-02,Cortemaggiore,Piacenza,Emilia-Romagna,Sant'Agata di Militello,Messina,Sicilia,Bevande,Cassonato,27995,COMPLETATA
+R000153,C000062,2026-05-29,2026-06-05,Montemurlo,Prato,Toscana,Marradi,-,Toscana,Arredamento,Cassonato,4884,COMPLETATA
+R000154,C000025,2026-12-07,2026-12-09,Palestro,Pavia,Lombardia,Maranzana,Asti,Piemonte,Farmaceutico,Frigorifero,11963,COMPLETATA
+R000155,C000060,2026-04-18,2026-04-25,Marcellina,-,Lazio,Druogno,Verbano-Cusio-Ossola,Piemonte,Materiale edile,Cassonato,21982,COMPLETATA
+R000156,C000120,2026-06-13,2026-06-16,Pescosolido,Frosinone,Lazio,San Vito di Leguzzano,Vicenza,Veneto,Materiale edile,Cassonato,4794,COMPLETATA
+R000157,C000055,2026-09-09,2026-09-14,Partanna,Trapani,Sicilia,Vallemaio,Frosinone,Lazio,Arredamento,Centinato,3808,COMPLETATA
+R000158,C000107,2026-06-20,2026-06-25,Castelmarte,Como,Lombardia,Sansepolcro,Arezzo,Toscana,Arredamento,Centinato,3982,COMPLETATA
+R000159,C000098,2026-07-30,2026-08-02,Campagnatico,Grosseto,Toscana,Cerro al Volturno,Isernia,Molise,Carta,Cassonato,1791,COMPLETATA
+R000160,C000056,2026-11-22,2026-11-30,Sant'Eufemia a Maiella,Pescara,Abruzzo,Villa di Tirano,Sondrio,Lombardia,Container,Portacontainer,13618,COMPLETATA
+R000161,C000012,2026-04-10,2026-04-14,Spresiano,Treviso,Veneto,Novello,Cuneo,Piemonte,Elettronica,Centinato,2689,COMPLETATA
+R000162,C000013,2026-10-11,2026-10-13,Bucciano,Benevento,Campania,Castelletto Merli,Alessandria,Piemonte,Bevande,Centinato,12803,COMPLETATA
+R000163,C000013,2026-09-06,2026-09-08,Omignano,Salerno,Campania,Brosso,-,Piemonte,Bevande,Centinato,5534,COMPLETATA
+R000164,C000052,2026-03-13,2026-03-20,Camisano,Cremona,Lombardia,Pulsano,Taranto,Puglia,Arredamento,Centinato,11730,ANNULLATA
+R000165,C000033,2026-11-06,2026-11-06,Larino,Campobasso,Molise,Molino dei Torti,Alessandria,Piemonte,Farmaceutico,Frigorifero,10680,COMPLETATA
+R000166,C000086,2026-06-19,2026-06-24,Costa Volpino,Bergamo,Lombardia,Trento,Trento,Trentino-Alto Adige/Südtirol,Elettronica,Centinato,2469,COMPLETATA
+R000167,C000047,2026-11-29,2026-12-02,Gavello,Rovigo,Veneto,Tufara,Campobasso,Molise,Abbigliamento,Centinato,7308,COMPLETATA
+R000168,C000057,2026-01-28,2026-02-07,Cerro al Volturno,Isernia,Molise,Montorio nei Frentani,Campobasso,Molise,Container,Portacontainer,20296,COMPLETATA
+R000169,C000087,2026-11-17,2026-11-19,Mombercelli,Asti,Piemonte,Arielli,Chieti,Abruzzo,Liquidi,Cisterna,26949,COMPLETATA
+R000170,C000086,2026-07-20,2026-07-20,Costa Volpino,Bergamo,Lombardia,Staffolo,Ancona,Marche,Alimentare,Centinato,27580,COMPLETATA
+R000171,C000112,2026-02-16,2026-02-17,Altavilla Milicia,Palermo,Sicilia,Piovene Rocchette,Vicenza,Veneto,Farmaceutico,Frigorifero,2759,COMPLETATA
+R000172,C000115,2026-05-08,2026-05-10,Pico,Frosinone,Lazio,Cavenago di Brianza,Monza e della Brianza,Lombardia,Carta,Centinato,12907,COMPLETATA
+R000173,C000095,2026-12-24,2026-12-28,Roccantica,Rieti,Lazio,Villabate,Palermo,Sicilia,Arredamento,Cassonato,4389,COMPLETATA
+R000174,C000050,2026-08-20,2026-08-24,Santa Maria Capua Vetere,Caserta,Campania,Medole,Mantova,Lombardia,Elettronica,Centinato,3293,ACCETTATA
+R000175,C000066,2026-10-27,2026-11-02,Castellalto,Teramo,Abruzzo,Martiniana Po,Cuneo,Piemonte,Container,Portacontainer,21906,ACCETTATA
+R000176,C000041,2026-09-04,2026-09-05,Racale,Lecce,Puglia,Martano,Lecce,Puglia,Bevande,Cassonato,12904,COMPLETATA
+R000177,C000029,2026-09-02,2026-09-05,Lazzate,Monza e della Brianza,Lombardia,Trarego Viggiona,Verbano-Cusio-Ossola,Piemonte,Carta,Cassonato,12751,COMPLETATA
+R000178,C000096,2026-03-04,2026-03-10,Bressanone,Bolzano/Bozen,Trentino-Alto Adige/Südtirol,Belvedere Ostrense,Ancona,Marche,Materiale edile,Cassonato,21016,COMPLETATA
+R000179,C000097,2026-01-21,2026-01-23,Lovere,Bergamo,Lombardia,Ossana,Trento,Trentino-Alto Adige/Südtirol,Farmaceutico,Frigorifero,6840,COMPLETATA
+R000180,C000091,2026-07-02,2026-07-07,Stella Cilento,Salerno,Campania,Anguillara Veneta,Padova,Veneto,Carta,Centinato,642,ACCETTATA
+R000181,C000056,2026-09-05,2026-09-10,Sant'Eufemia a Maiella,Pescara,Abruzzo,Offlaga,Brescia,Lombardia,Container,Portacontainer,15690,COMPLETATA
+R000182,C000073,2026-11-25,2026-11-28,Capannori,Lucca,Toscana,Andria,Barletta-Andria-Trani,Puglia,Liquidi,Cisterna,24955,COMPLETATA
+R000183,C000114,2026-09-24,2026-10-03,Agliano Terme,Asti,Piemonte,Cingoli,Macerata,Marche,Container,Portacontainer,29743,COMPLETATA
+R000184,C000084,2026-09-22,2026-09-26,Monterubbiano,Fermo,Marche,Concerviano,Rieti,Lazio,Liquidi,Cisterna,25452,ANNULLATA
+R000185,C000018,2026-09-23,2026-09-25,Levate,Bergamo,Lombardia,Spino d'Adda,Cremona,Lombardia,Liquidi,Cisterna,27751,COMPLETATA
+R000186,C000066,2026-04-28,2026-05-06,San Martino sulla Marrucina,Chieti,Abruzzo,Siena,Siena,Toscana,Container,Portacontainer,27494,ACCETTATA
+R000187,C000062,2026-03-25,2026-03-30,Scansano,Grosseto,Toscana,Rofrano,Salerno,Campania,Arredamento,Centinato,2354,ANNULLATA
+R000188,C000082,2026-03-18,2026-03-20,Casanova Elvo,Vercelli,Piemonte,Nicorvo,Pavia,Lombardia,Elettronica,Centinato,1258,COMPLETATA
+R000189,C000054,2026-05-17,2026-05-21,Serravalle a Po,Mantova,Lombardia,Val di Vizze,Bolzano/Bozen,Trentino-Alto Adige/Südtirol,Carta,Centinato,18891,COMPLETATA
+R000190,C000005,2026-12-02,2026-12-06,Oliveto Lucano,Matera,Basilicata,Mazzarrà Sant'Andrea,Messina,Sicilia,Arredamento,Cassonato,10745,COMPLETATA
+R000191,C000026,2026-09-12,2026-09-14,Cassago Brianza,Lecco,Lombardia,Tavernola Bergamasca,Bergamo,Lombardia,Farmaceutico,Frigorifero,11594,COMPLETATA
+R000192,C000074,2026-12-03,2026-12-03,Ciriè,-,Piemonte,Curtatone,Mantova,Lombardia,Alimentare,Frigorifero,6313,ANNULLATA
+R000193,C000087,2026-04-06,2026-04-10,Verzuolo,Cuneo,Piemonte,Sant'Angelo a Cupolo,Benevento,Campania,Liquidi,Cisterna,23238,COMPLETATA
+R000194,C000055,2026-01-30,2026-01-31,Patti,Messina,Sicilia,Zimone,Biella,Piemonte,Alimentare,Frigorifero,20058,COMPLETATA
+R000195,C000068,2026-07-26,2026-08-02,Strambino,-,Piemonte,Bellinzago Novarese,Novara,Piemonte,Materiale edile,Cassonato,7025,COMPLETATA
+R000196,C000064,2026-09-11,2026-09-18,Genola,Cuneo,Piemonte,Sinagra,Messina,Sicilia,Container,Portacontainer,16991,COMPLETATA
+R000197,C000113,2026-10-21,2026-10-21,Colli a Volturno,Isernia,Molise,Laghi,Vicenza,Veneto,Alimentare,Centinato,27490,COMPLETATA
+R000198,C000043,2026-11-13,2026-11-16,Savoca,Messina,Sicilia,Sant'Angelo Limosano,Campobasso,Molise,Materiale edile,Cassonato,23365,COMPLETATA
+R000199,C000063,2026-06-02,2026-06-06,Averara,Bergamo,Lombardia,Bressana Bottarone,Pavia,Lombardia,Abbigliamento,Centinato,4267,ACCETTATA
+R000200,C000025,2026-07-01,2026-07-01,Palestro,Pavia,Lombardia,San Vito Lo Capo,Trapani,Sicilia,Alimentare,Frigorifero,25840,COMPLETATA
+R000201,C000076,2026-07-23,2026-07-26,Concerviano,Rieti,Lazio,Isola Rizza,Verona,Veneto,Bevande,Cassonato,7736,COMPLETATA
+R000202,C000077,2026-01-03,2026-01-05,Casole d'Elsa,Siena,Toscana,Schilpario,Bergamo,Lombardia,Elettronica,Centinato,1408,COMPLETATA
+R000203,C000031,2026-05-21,2026-05-26,Casciana Terme Lari,Pisa,Toscana,Valstrona,Verbano-Cusio-Ossola,Piemonte,Elettronica,Centinato,1719,COMPLETATA
+R000204,C000003,2026-02-24,2026-02-26,Niardo,Brescia,Lombardia,Bressanvido,Vicenza,Veneto,Carta,Centinato,20762,COMPLETATA
+R000205,C000011,2026-08-10,2026-08-12,Berzano di San Pietro,Asti,Piemonte,Roatto,Asti,Piemonte,Bevande,Cassonato,10874,COMPLETATA
+R000206,C000096,2026-10-26,2026-11-02,Bressanone,Bolzano/Bozen,Trentino-Alto Adige/Südtirol,Livinallongo del Col di Lana,Belluno,Veneto,Materiale edile,Cassonato,5468,COMPLETATA
+R000207,C000076,2026-07-18,2026-07-19,Colli sul Velino,Rieti,Lazio,Binago,Como,Lombardia,Bevande,Cassonato,1365,COMPLETATA
+R000208,C000001,2026-10-24,2026-10-26,Coriano,Rimini,Emilia-Romagna,Cerenzia,Crotone,Calabria,Bevande,Centinato,25520,COMPLETATA
+R000209,C000108,2026-11-07,2026-11-09,Farra di Soligo,Treviso,Veneto,Sale delle Langhe,Cuneo,Piemonte,Abbigliamento,Centinato,5153,COMPLETATA
+R000210,C000095,2026-04-03,2026-04-07,Roccantica,Rieti,Lazio,Spino d'Adda,Cremona,Lombardia,Liquidi,Cisterna,7396,COMPLETATA
+R000211,C000086,2026-09-04,2026-09-05,Costa Volpino,Bergamo,Lombardia,Castelbaldo,Padova,Veneto,Alimentare,Centinato,22497,COMPLETATA
+R000212,C000107,2026-09-05,2026-09-11,Castelmarte,Como,Lombardia,Casale sul Sile,Treviso,Veneto,Arredamento,Cassonato,10516,ACCETTATA
+R000213,C000114,2026-09-21,2026-09-26,Agliano Terme,Asti,Piemonte,Assisi,Perugia,Umbria,Abbigliamento,Centinato,1914,COMPLETATA
+R000214,C000044,2026-06-25,2026-06-27,Soriso,Novara,Piemonte,Camposampiero,Padova,Veneto,Bevande,Cassonato,16166,COMPLETATA
+R000215,C000014,2026-10-29,2026-11-01,Montecreto,Modena,Emilia-Romagna,Carolei,Cosenza,Calabria,Bevande,Centinato,29138,COMPLETATA
+R000216,C000087,2026-08-27,2026-09-01,Biandrate,Novara,Piemonte,Casteldidone,Cremona,Lombardia,Liquidi,Cisterna,21619,COMPLETATA
+R000217,C000028,2026-06-25,2026-07-01,Avelengo,Bolzano/Bozen,Trentino-Alto Adige/Südtirol,San Bartolomeo al Mare,Imperia,Liguria,Container,Portacontainer,27684,COMPLETATA
+R000218,C000029,2026-06-13,2026-06-17,Lazzate,Monza e della Brianza,Lombardia,Fiumedinisi,Messina,Sicilia,Carta,Cassonato,16920,COMPLETATA
+R000219,C000078,2026-07-19,2026-07-22,Mirabello Sannitico,Campobasso,Molise,Grantola,Varese,Lombardia,Abbigliamento,Centinato,1567,COMPLETATA
+R000220,C000056,2026-02-12,2026-02-18,Sant'Eufemia a Maiella,Pescara,Abruzzo,Frassinetto,-,Piemonte,Container,Portacontainer,17593,COMPLETATA
+R000221,C000027,2026-11-02,2026-11-07,Grammichele,Catania,Sicilia,Belvedere Langhe,Cuneo,Piemonte,Materiale edile,Cassonato,15897,COMPLETATA
+R000222,C000115,2026-07-19,2026-07-22,Stimigliano,Rieti,Lazio,Cremeno,Lecco,Lombardia,Carta,Cassonato,9128,COMPLETATA
+R000223,C000047,2026-12-08,2026-12-13,Solesino,Padova,Veneto,Cutrofiano,Lecce,Puglia,Abbigliamento,Centinato,3182,COMPLETATA
+R000224,C000103,2026-06-05,2026-06-11,Celenza sul Trigno,Chieti,Abruzzo,Spinadesco,Cremona,Lombardia,Materiale edile,Cassonato,1216,COMPLETATA
+R000225,C000012,2026-05-23,2026-05-25,Sedico,Belluno,Veneto,Balvano,Potenza,Basilicata,Elettronica,Centinato,694,COMPLETATA
+R000226,C000050,2026-06-19,2026-06-22,Montano Antilia,Salerno,Campania,Scandriglia,Rieti,Lazio,Elettronica,Centinato,2011,COMPLETATA
+R000227,C000050,2026-03-17,2026-03-19,Montano Antilia,Salerno,Campania,Crescentino,Vercelli,Piemonte,Elettronica,Centinato,709,ACCETTATA
+R000228,C000021,2026-07-19,2026-07-22,Castelluccio Inferiore,Potenza,Basilicata,Varzo,Verbano-Cusio-Ossola,Piemonte,Materiale edile,Cassonato,14285,ACCETTATA
+R000229,C000086,2026-11-06,2026-11-09,Costa Volpino,Bergamo,Lombardia,Albignasego,Padova,Veneto,Abbigliamento,Centinato,3961,ACCETTATA
+R000230,C000073,2026-04-24,2026-04-29,Capannori,Lucca,Toscana,Cenate Sopra,Bergamo,Lombardia,Materiale edile,Cassonato,17738,ANNULLATA
+R000231,C000073,2026-01-17,2026-01-24,Capannori,Lucca,Toscana,Vedano Olona,Varese,Lombardia,Materiale edile,Cassonato,4557,COMPLETATA
+R000232,C000098,2026-07-29,2026-07-31,Campagnatico,Grosseto,Toscana,Campolongo Maggiore,-,Veneto,Abbigliamento,Centinato,5136,COMPLETATA
+R000233,C000078,2026-09-17,2026-09-22,Carpinone,Isernia,Molise,Tubre,Bolzano/Bozen,Trentino-Alto Adige/Südtirol,Liquidi,Cisterna,27235,COMPLETATA
+R000234,C000005,2026-10-13,2026-10-19,Gorgoglione,Matera,Basilicata,Bolsena,Viterbo,Lazio,Arredamento,Centinato,16298,COMPLETATA
+R000235,C000087,2026-06-08,2026-06-10,Verzuolo,Cuneo,Piemonte,Fermo,Fermo,Marche,Liquidi,Cisterna,13340,COMPLETATA
+R000236,C000104,2026-10-19,2026-10-21,Prelà,Imperia,Liguria,Rubiera,Reggio nell'Emilia,Emilia-Romagna,Liquidi,Cisterna,29367,COMPLETATA
+R000237,C000046,2026-03-21,2026-03-24,Boffalora sopra Ticino,-,Lombardia,Monterotondo,-,Lazio,Bevande,Cassonato,4492,COMPLETATA
+R000238,C000101,2026-05-07,2026-05-08,Molinara,Benevento,Campania,Segusino,Treviso,Veneto,Alimentare,Centinato,22802,COMPLETATA
+R000239,C000066,2026-07-25,2026-08-04,San Martino sulla Marrucina,Chieti,Abruzzo,Cavenago di Brianza,Monza e della Brianza,Lombardia,Container,Portacontainer,20048,COMPLETATA
+R000240,C000019,2026-12-04,2026-12-05,Sonnino,Latina,Lazio,Sarentino,Bolzano/Bozen,Trentino-Alto Adige/Südtirol,Bevande,Centinato,23915,COMPLETATA
+R000241,C000092,2026-01-03,2026-01-03,Grimacco,Udine,Friuli-Venezia Giulia,Cantarana,Asti,Piemonte,Alimentare,Frigorifero,21336,COMPLETATA
+R000242,C000073,2026-08-24,2026-08-30,Capannori,Lucca,Toscana,Bergolo,Cuneo,Piemonte,Materiale edile,Cassonato,3622,ANNULLATA
+R000243,C000050,2026-01-25,2026-01-28,Montano Antilia,Salerno,Campania,Roncadelle,Brescia,Lombardia,Elettronica,Centinato,2497,COMPLETATA
+R000244,C000052,2026-07-08,2026-07-13,Camisano,Cremona,Lombardia,Sovere,Bergamo,Lombardia,Arredamento,Cassonato,17229,COMPLETATA
+R000245,C000044,2026-10-12,2026-10-15,Castagnole Piemonte,-,Piemonte,Joppolo Giancaxio,Agrigento,Sicilia,Bevande,Centinato,10041,COMPLETATA
+R000246,C000071,2026-04-27,2026-04-29,Roccasparvera,Cuneo,Piemonte,Sondrio,Sondrio,Lombardia,Farmaceutico,Frigorifero,9054,ANNULLATA
+R000247,C000043,2026-06-13,2026-06-17,San Gregorio di Catania,Catania,Sicilia,Roma,-,Lazio,Arredamento,Centinato,6874,COMPLETATA
+R000248,C000050,2026-12-26,2026-12-30,Montano Antilia,Salerno,Campania,Castelnovo Bariano,Rovigo,Veneto,Elettronica,Centinato,1442,ACCETTATA
+R000249,C000096,2026-06-08,2026-06-13,Terento,Bolzano/Bozen,Trentino-Alto Adige/Südtirol,Costa Serina,Bergamo,Lombardia,Materiale edile,Cassonato,19453,ANNULLATA
+R000250,C000055,2026-02-21,2026-02-26,Partanna,Trapani,Sicilia,Gemonio,Varese,Lombardia,Arredamento,Centinato,8948,COMPLETATA
+R000251,C000030,2026-09-09,2026-09-14,Mergo,Ancona,Marche,Lona-Lases,Trento,Trentino-Alto Adige/Südtirol,Arredamento,Cassonato,818,COMPLETATA
+R000252,C000050,2026-03-11,2026-03-15,Montano Antilia,Salerno,Campania,Rivergaro,Piacenza,Emilia-Romagna,Elettronica,Centinato,3864,COMPLETATA
+R000253,C000068,2026-04-08,2026-04-13,Strambino,-,Piemonte,Ateleta,L'Aquila,Abruzzo,Materiale edile,Cassonato,7542,COMPLETATA
+R000254,C000026,2026-02-03,2026-02-08,San Bartolomeo Val Cavargna,Como,Lombardia,Cancello ed Arnone,Caserta,Campania,Liquidi,Cisterna,8495,COMPLETATA
+R000255,C000090,2026-08-16,2026-08-23,Leonessa,Rieti,Lazio,Lugo di Vicenza,Vicenza,Veneto,Materiale edile,Cassonato,13163,ACCETTATA
+R000256,C000057,2026-07-02,2026-07-07,Cerro al Volturno,Isernia,Molise,Aci Catena,Catania,Sicilia,Liquidi,Cisterna,29581,COMPLETATA
+R000257,C000063,2026-03-04,2026-03-09,Pigra,Como,Lombardia,Arquà Polesine,Rovigo,Veneto,Abbigliamento,Centinato,6456,COMPLETATA
+R000258,C000002,2026-05-28,2026-06-01,Castiglione di Sicilia,Catania,Sicilia,Cercepiccola,Campobasso,Molise,Liquidi,Cisterna,15663,COMPLETATA
+R000259,C000033,2026-06-14,2026-06-16,Larino,Campobasso,Molise,Fiè allo Sciliar,Bolzano/Bozen,Trentino-Alto Adige/Südtirol,Farmaceutico,Frigorifero,8221,COMPLETATA
+R000260,C000045,2026-12-22,2026-12-25,Castel d'Azzano,Verona,Veneto,Bresso,-,Lombardia,Liquidi,Cisterna,9297,ACCETTATA
+R000261,C000085,2026-03-31,2026-04-03,Besano,Varese,Lombardia,Atina,Frosinone,Lazio,Liquidi,Cisterna,11424,COMPLETATA
+R000262,C000002,2026-07-24,2026-07-28,Delia,Caltanissetta,Sicilia,Novalesa,-,Piemonte,Liquidi,Cisterna,25665,COMPLETATA
+R000263,C000037,2026-03-07,2026-03-08,Montechiarugolo,Parma,Emilia-Romagna,Capizzone,Bergamo,Lombardia,Farmaceutico,Frigorifero,11363,COMPLETATA
+R000264,C000076,2026-07-30,2026-08-01,San Gregorio da Sassola,-,Lazio,Monteforte Irpino,Avellino,Campania,Bevande,Cassonato,12806,COMPLETATA
+R000265,C000050,2026-09-06,2026-09-10,Montano Antilia,Salerno,Campania,Bagnolo Cremasco,Cremona,Lombardia,Elettronica,Centinato,2711,COMPLETATA
+R000266,C000080,2026-08-15,2026-08-25,Fraine,Chieti,Abruzzo,Turano Lodigiano,Lodi,Lombardia,Container,Portacontainer,22486,ANNULLATA
+R000267,C000103,2026-07-28,2026-07-31,Cocullo,L'Aquila,Abruzzo,Poggiorsini,-,Puglia,Materiale edile,Cassonato,21064,COMPLETATA
+R000268,C000043,2026-09-09,2026-09-15,San Gregorio di Catania,Catania,Sicilia,Paderno Ponchielli,Cremona,Lombardia,Materiale edile,Cassonato,20837,COMPLETATA
+R000269,C000113,2026-11-05,2026-11-05,Montenero Val Cocchiara,Isernia,Molise,Morgex,Valle d'Aosta/Vallée d'Aoste,Valle d'Aosta/Vallée d'Aoste,Alimentare,Centinato,6525,COMPLETATA
+R000270,C000113,2026-02-03,2026-02-04,Montenero Val Cocchiara,Isernia,Molise,Laigueglia,Savona,Liguria,Alimentare,Frigorifero,13510,COMPLETATA
+R000271,C000004,2026-03-21,2026-03-26,Piedimonte Matese,Caserta,Campania,Salbertrand,-,Piemonte,Elettronica,Centinato,2581,COMPLETATA
+R000272,C000031,2026-03-02,2026-03-06,Montemurlo,Prato,Toscana,Vallelunga Pratameno,Caltanissetta,Sicilia,Elettronica,Centinato,3484,ACCETTATA
+R000273,C000040,2026-12-23,2026-12-26,Stio,Salerno,Campania,Castel Gabbiano,Cremona,Lombardia,Carta,Cassonato,4927,COMPLETATA
+R000274,C000054,2026-07-30,2026-08-03,Serravalle a Po,Mantova,Lombardia,San Giorgio Monferrato,Alessandria,Piemonte,Carta,Cassonato,21456,COMPLETATA
+R000275,C000029,2026-03-01,2026-03-03,Lazzate,Monza e della Brianza,Lombardia,Capena,-,Lazio,Carta,Cassonato,9013,COMPLETATA
+R000276,C000088,2026-09-16,2026-09-17,Chiarano,Treviso,Veneto,Marradi,-,Toscana,Farmaceutico,Frigorifero,186,COMPLETATA
+R000277,C000090,2026-05-14,2026-05-21,Poggio Moiano,Rieti,Lazio,Cancello ed Arnone,Caserta,Campania,Materiale edile,Cassonato,18963,COMPLETATA
+R000278,C000031,2026-04-14,2026-04-17,Terranuova Bracciolini,Arezzo,Toscana,Castelliri,Frosinone,Lazio,Elettronica,Centinato,953,COMPLETATA
+R000279,C000095,2026-10-14,2026-10-19,Roccantica,Rieti,Lazio,Collepasso,Lecce,Puglia,Arredamento,Cassonato,17930,ACCETTATA
+R000280,C000024,2026-09-16,2026-09-19,Mombercelli,Asti,Piemonte,Candia Canavese,-,Piemonte,Abbigliamento,Centinato,2329,COMPLETATA
+R000281,C000021,2026-04-23,2026-04-24,Valsinni,Matera,Basilicata,Soiano del Lago,Brescia,Lombardia,Alimentare,Frigorifero,9744,COMPLETATA
+R000282,C000030,2026-04-26,2026-05-03,Mergo,Ancona,Marche,Eraclea,-,Veneto,Arredamento,Cassonato,14270,ANNULLATA
+R000283,C000055,2026-01-25,2026-02-01,Partanna,Trapani,Sicilia,Avola,Siracusa,Sicilia,Arredamento,Cassonato,5287,COMPLETATA
+R000284,C000055,2026-02-25,2026-03-02,Palazzolo Acreide,Siracusa,Sicilia,Mandatoriccio,Cosenza,Calabria,Arredamento,Cassonato,913,COMPLETATA
+R000285,C000117,2026-07-07,2026-07-14,Pozzallo,Ragusa,Sicilia,Pollein,Valle d'Aosta/Vallée d'Aoste,Valle d'Aosta/Vallée d'Aoste,Arredamento,Centinato,3578,COMPLETATA
+R000286,C000114,2026-07-09,2026-07-14,Agliano Terme,Asti,Piemonte,Trivignano Udinese,Udine,Friuli-Venezia Giulia,Elettronica,Centinato,2301,COMPLETATA
+R000287,C000026,2026-05-06,2026-05-10,San Bartolomeo Val Cavargna,Como,Lombardia,Calabritto,Avellino,Campania,Elettronica,Centinato,1828,COMPLETATA
+R000288,C000049,2026-06-20,2026-06-23,Caerano di San Marco,Treviso,Veneto,Virle Piemonte,-,Piemonte,Carta,Centinato,23134,COMPLETATA
+R000289,C000012,2026-12-25,2026-12-27,Sedico,Belluno,Veneto,Atri,Teramo,Abruzzo,Elettronica,Centinato,1436,COMPLETATA
+R000290,C000077,2026-04-18,2026-04-21,Casole d'Elsa,Siena,Toscana,Roccavione,Cuneo,Piemonte,Bevande,Centinato,8624,COMPLETATA
+R000291,C000096,2026-05-05,2026-05-10,Bressanone,Bolzano/Bozen,Trentino-Alto Adige/Südtirol,Mormanno,Cosenza,Calabria,Materiale edile,Cassonato,13378,ACCETTATA
+R000292,C000056,2026-03-06,2026-03-15,Sant'Eufemia a Maiella,Pescara,Abruzzo,Moconesi,-,Liguria,Container,Portacontainer,26059,COMPLETATA
+R000293,C000086,2026-06-27,2026-06-28,Costa Volpino,Bergamo,Lombardia,Valgoglio,Bergamo,Lombardia,Alimentare,Frigorifero,5579,COMPLETATA
+R000294,C000054,2026-08-12,2026-08-15,Serravalle a Po,Mantova,Lombardia,Corbola,Rovigo,Veneto,Carta,Cassonato,1113,COMPLETATA
+R000295,C000009,2026-10-05,2026-10-07,Casaletto Ceredano,Cremona,Lombardia,Paternopoli,Avellino,Campania,Farmaceutico,Frigorifero,8201,COMPLETATA
+R000296,C000050,2026-01-31,2026-02-03,Montano Antilia,Salerno,Campania,Piazza Brembana,Bergamo,Lombardia,Elettronica,Centinato,323,COMPLETATA
+R000297,C000004,2026-09-13,2026-09-18,Piedimonte Matese,Caserta,Campania,Zanica,Bergamo,Lombardia,Elettronica,Centinato,2388,COMPLETATA
+R000298,C000084,2026-02-07,2026-02-10,Monterubbiano,Fermo,Marche,Grontardo,Cremona,Lombardia,Bevande,Cassonato,24522,COMPLETATA
+R000299,C000106,2026-12-14,2026-12-18,Ariano Irpino,Avellino,Campania,Vigarano Mainarda,Ferrara,Emilia-Romagna,Carta,Centinato,24862,COMPLETATA
+R000300,C000006,2026-04-07,2026-04-10,Casaletto Spartano,Salerno,Campania,Vernasca,Piacenza,Emilia-Romagna,Bevande,Centinato,28343,COMPLETATA
+R000301,C000085,2026-04-21,2026-04-24,Bosisio Parini,Lecco,Lombardia,Presezzo,Bergamo,Lombardia,Carta,Centinato,22024,COMPLETATA
+R000302,C000066,2026-11-06,2026-11-12,San Martino sulla Marrucina,Chieti,Abruzzo,Strambino,-,Piemonte,Container,Portacontainer,23994,COMPLETATA
+R000303,C000060,2026-07-11,2026-07-16,Montasola,Rieti,Lazio,Castel San Vincenzo,Isernia,Molise,Materiale edile,Cassonato,11326,COMPLETATA
+R000304,C000076,2026-05-18,2026-05-22,San Gregorio da Sassola,-,Lazio,Arsago Seprio,Varese,Lombardia,Carta,Centinato,7509,COMPLETATA
+R000305,C000054,2026-01-05,2026-01-06,Argegno,Como,Lombardia,Zermeghedo,Vicenza,Veneto,Alimentare,Frigorifero,20021,COMPLETATA
+R000306,C000118,2026-11-17,2026-11-26,Castel Frentano,Chieti,Abruzzo,San Giorgio del Sannio,Benevento,Campania,Container,Portacontainer,19042,COMPLETATA
+R000307,C000067,2026-04-29,2026-05-02,Acqui Terme,Alessandria,Piemonte,Stroncone,Terni,Umbria,Elettronica,Centinato,616,COMPLETATA
+R000308,C000096,2026-10-24,2026-10-29,Bressanone,Bolzano/Bozen,Trentino-Alto Adige/Südtirol,Martirano Lombardo,Catanzaro,Calabria,Materiale edile,Cassonato,8124,COMPLETATA
+R000309,C000023,2026-07-03,2026-07-04,Sesta Godano,La Spezia,Liguria,Curno,Bergamo,Lombardia,Bevande,Cassonato,27487,ANNULLATA
+R000310,C000042,2026-11-08,2026-11-10,Guagnano,Lecce,Puglia,Massafra,Taranto,Puglia,Carta,Cassonato,4449,COMPLETATA
+R000311,C000076,2026-03-17,2026-03-20,San Gregorio da Sassola,-,Lazio,Goriano Sicoli,L'Aquila,Abruzzo,Bevande,Centinato,19511,COMPLETATA
+R000312,C000005,2026-06-08,2026-06-15,Venosa,Potenza,Basilicata,Formicola,Caserta,Campania,Arredamento,Cassonato,19349,COMPLETATA
+R000313,C000049,2026-01-13,2026-01-17,Caerano di San Marco,Treviso,Veneto,Locate Varesino,Como,Lombardia,Carta,Centinato,24922,COMPLETATA
+R000314,C000060,2026-07-16,2026-07-22,Marcellina,-,Lazio,Lentate sul Seveso,Monza e della Brianza,Lombardia,Materiale edile,Cassonato,16758,COMPLETATA
+R000315,C000026,2026-10-11,2026-10-13,San Bartolomeo Val Cavargna,Como,Lombardia,Cibiana di Cadore,Belluno,Veneto,Liquidi,Cisterna,13724,COMPLETATA
+R000316,C000050,2026-09-25,2026-09-29,Montano Antilia,Salerno,Campania,Varedo,Monza e della Brianza,Lombardia,Elettronica,Centinato,2482,COMPLETATA
+R000317,C000043,2026-03-12,2026-03-18,San Gregorio di Catania,Catania,Sicilia,Triuggio,Monza e della Brianza,Lombardia,Container,Portacontainer,17650,COMPLETATA
+R000318,C000101,2026-11-28,2026-11-29,Molinara,Benevento,Campania,Ghedi,Brescia,Lombardia,Alimentare,Frigorifero,20849,COMPLETATA
+R000319,C000083,2026-03-18,2026-03-21,Cervarese Santa Croce,Padova,Veneto,Cossogno,Verbano-Cusio-Ossola,Piemonte,Carta,Cassonato,11374,COMPLETATA
+R000320,C000062,2026-09-22,2026-09-26,Scansano,Grosseto,Toscana,Casalmaiocco,Lodi,Lombardia,Arredamento,Cassonato,5131,COMPLETATA
+R000321,C000108,2026-03-23,2026-04-01,Farra di Soligo,Treviso,Veneto,Servigliano,Fermo,Marche,Container,Portacontainer,19306,COMPLETATA
+R000322,C000055,2026-11-22,2026-11-24,Partanna,Trapani,Sicilia,San Bassano,Cremona,Lombardia,Bevande,Cassonato,22724,ACCETTATA
+R000323,C000003,2026-12-04,2026-12-05,San Giorgio su Legnano,-,Lombardia,San Mango sul Calore,Avellino,Campania,Farmaceutico,Frigorifero,8381,COMPLETATA
+R000324,C000073,2026-07-23,2026-07-26,Capannori,Lucca,Toscana,Diano d'Alba,Cuneo,Piemonte,Materiale edile,Cassonato,16007,COMPLETATA
+R000325,C000111,2026-01-22,2026-01-26,Bovolenta,Padova,Veneto,Confienza,Pavia,Lombardia,Elettronica,Centinato,693,COMPLETATA
+R000326,C000037,2026-04-13,2026-04-15,Vigolzone,Piacenza,Emilia-Romagna,San Costanzo,Pesaro e Urbino,Marche,Liquidi,Cisterna,25505,ANNULLATA
+R000327,C000113,2026-03-24,2026-03-25,Vastogirardi,Isernia,Molise,Fiume Veneto,Pordenone,Friuli-Venezia Giulia,Alimentare,Centinato,22026,COMPLETATA
+R000328,C000081,2026-06-10,2026-06-14,Monghidoro,-,Emilia-Romagna,Roseto degli Abruzzi,Teramo,Abruzzo,Elettronica,Centinato,675,COMPLETATA
+R000329,C000018,2026-09-29,2026-10-02,Selvino,Bergamo,Lombardia,Liscia,Chieti,Abruzzo,Liquidi,Cisterna,15125,COMPLETATA
+R000330,C000108,2026-07-24,2026-07-29,Farra di Soligo,Treviso,Veneto,Noceto,Parma,Emilia-Romagna,Container,Portacontainer,28262,COMPLETATA
+R000331,C000099,2026-12-10,2026-12-15,Varenna,Lecco,Lombardia,Lessona,Biella,Piemonte,Liquidi,Cisterna,18567,COMPLETATA
+R000332,C000096,2026-02-06,2026-02-09,Bressanone,Bolzano/Bozen,Trentino-Alto Adige/Südtirol,Feisoglio,Cuneo,Piemonte,Materiale edile,Cassonato,7158,COMPLETATA
+R000333,C000075,2026-09-12,2026-09-14,Motta Baluffi,Cremona,Lombardia,San Nicola dell'Alto,Crotone,Calabria,Liquidi,Cisterna,12566,COMPLETATA
+R000334,C000055,2026-03-13,2026-03-20,Partanna,Trapani,Sicilia,Santo Stefano di Camastra,Messina,Sicilia,Arredamento,Cassonato,12753,COMPLETATA
+R000335,C000022,2026-11-14,2026-11-20,L'Aquila,L'Aquila,Abruzzo,Carmiano,Lecce,Puglia,Container,Portacontainer,10491,COMPLETATA
+R000336,C000118,2026-11-16,2026-11-26,Castel Frentano,Chieti,Abruzzo,Pizzoni,Vibo Valentia,Calabria,Container,Portacontainer,24394,COMPLETATA
+R000337,C000054,2026-10-13,2026-10-17,Serravalle a Po,Mantova,Lombardia,Tonco,Asti,Piemonte,Carta,Cassonato,20420,COMPLETATA
+R000338,C000113,2026-06-29,2026-06-29,Montenero Val Cocchiara,Isernia,Molise,Cravanzana,Cuneo,Piemonte,Alimentare,Frigorifero,15298,ACCETTATA
+R000339,C000030,2026-10-31,2026-11-04,Mergo,Ancona,Marche,Stregna,Udine,Friuli-Venezia Giulia,Arredamento,Centinato,17412,COMPLETATA
+R000340,C000052,2026-08-02,2026-08-09,Camisano,Cremona,Lombardia,Trevignano Romano,-,Lazio,Materiale edile,Cassonato,10647,ANNULLATA
+R000341,C000055,2026-03-19,2026-03-24,Partanna,Trapani,Sicilia,Mercatello sul Metauro,Pesaro e Urbino,Marche,Arredamento,Centinato,4208,COMPLETATA
+R000342,C000039,2026-11-29,2026-12-04,Faicchio,Benevento,Campania,Linarolo,Pavia,Lombardia,Liquidi,Cisterna,28351,COMPLETATA
+R000343,C000040,2026-02-23,2026-02-28,Stio,Salerno,Campania,Pelugo,Trento,Trentino-Alto Adige/Südtirol,Carta,Centinato,4548,COMPLETATA
+R000344,C000012,2026-01-06,2026-01-10,Sedico,Belluno,Veneto,Bernalda,Matera,Basilicata,Elettronica,Centinato,1608,COMPLETATA
+R000345,C000078,2026-06-10,2026-06-20,Mirabello Sannitico,Campobasso,Molise,Lizzano in Belvedere,-,Emilia-Romagna,Container,Portacontainer,11681,COMPLETATA
+R000346,C000053,2026-01-25,2026-01-30,Cisliano,-,Lombardia,Castrignano del Capo,Lecce,Puglia,Materiale edile,Cassonato,7647,COMPLETATA
+R000347,C000059,2026-04-19,2026-04-21,Ne,-,Liguria,Travacò Siccomario,Pavia,Lombardia,Farmaceutico,Frigorifero,8134,COMPLETATA
+R000348,C000050,2026-04-21,2026-04-24,Montano Antilia,Salerno,Campania,San Sossio Baronia,Avellino,Campania,Elettronica,Centinato,2291,COMPLETATA
+R000349,C000021,2026-09-27,2026-10-04,Castelluccio Inferiore,Potenza,Basilicata,Casorezzo,-,Lombardia,Materiale edile,Cassonato,2062,COMPLETATA
+R000350,C000110,2026-09-20,2026-09-30,Lequio Tanaro,Cuneo,Piemonte,Ceriano Laghetto,Monza e della Brianza,Lombardia,Container,Portacontainer,15286,COMPLETATA
+R000351,C000073,2026-07-30,2026-08-02,Lajatico,Pisa,Toscana,Palagianello,Taranto,Puglia,Materiale edile,Cassonato,25554,COMPLETATA
+R000352,C000036,2026-06-18,2026-06-20,Acerno,Salerno,Campania,San Mauro Torinese,-,Piemonte,Carta,Cassonato,25352,COMPLETATA
+R000353,C000018,2026-07-23,2026-07-26,Levate,Bergamo,Lombardia,Castiglione del Lago,Perugia,Umbria,Liquidi,Cisterna,18558,COMPLETATA
+R000354,C000014,2026-08-26,2026-08-29,Cortemaggiore,Piacenza,Emilia-Romagna,Dolceacqua,Imperia,Liguria,Bevande,Centinato,23565,COMPLETATA
+R000355,C000074,2026-07-17,2026-07-18,Sordevolo,Biella,Piemonte,Tufara,Campobasso,Molise,Alimentare,Centinato,20629,COMPLETATA
+R000356,C000023,2026-02-15,2026-02-18,Riomaggiore,La Spezia,Liguria,Sillano Giuncugnano,Lucca,Toscana,Materiale edile,Cassonato,1051,COMPLETATA
+R000357,C000027,2026-05-26,2026-05-29,Grammichele,Catania,Sicilia,Ferrera Erbognone,Pavia,Lombardia,Carta,Cassonato,11437,COMPLETATA
+R000358,C000026,2026-07-25,2026-07-27,San Bartolomeo Val Cavargna,Como,Lombardia,Verrès,Valle d'Aosta/Vallée d'Aoste,Valle d'Aosta/Vallée d'Aoste,Liquidi,Cisterna,21603,COMPLETATA
+R000359,C000041,2026-05-11,2026-05-14,Collepasso,Lecce,Puglia,Bibbiano,Reggio nell'Emilia,Emilia-Romagna,Bevande,Centinato,7357,COMPLETATA
+R000360,C000055,2026-11-18,2026-11-24,Partanna,Trapani,Sicilia,Premia,Verbano-Cusio-Ossola,Piemonte,Arredamento,Centinato,15593,COMPLETATA
+R000361,C000096,2026-04-18,2026-04-18,Bressanone,Bolzano/Bozen,Trentino-Alto Adige/Südtirol,Borgoratto Alessandrino,Alessandria,Piemonte,Alimentare,Centinato,22723,COMPLETATA
+R000362,C000082,2026-04-01,2026-04-05,Casanova Elvo,Vercelli,Piemonte,Gais,Bolzano/Bozen,Trentino-Alto Adige/Südtirol,Elettronica,Centinato,661,ANNULLATA
+R000363,C000076,2026-09-11,2026-09-13,San Gregorio da Sassola,-,Lazio,Laureana di Borrello,Reggio di Calabria,Calabria,Farmaceutico,Frigorifero,5100,COMPLETATA
+R000364,C000050,2026-12-07,2026-12-11,Montano Antilia,Salerno,Campania,Goriano Sicoli,L'Aquila,Abruzzo,Elettronica,Centinato,3447,COMPLETATA
+R000365,C000046,2026-06-26,2026-06-28,Ponte di Legno,Brescia,Lombardia,Sant'Anatolia di Narco,Perugia,Umbria,Bevande,Centinato,15541,ANNULLATA
+R000366,C000022,2026-04-11,2026-04-17,L'Aquila,L'Aquila,Abruzzo,Canale,Cuneo,Piemonte,Container,Portacontainer,27158,COMPLETATA
+R000367,C000013,2026-06-23,2026-06-25,Omignano,Salerno,Campania,Cercivento,Udine,Friuli-Venezia Giulia,Liquidi,Cisterna,6197,COMPLETATA
+R000368,C000112,2026-02-25,2026-02-27,Terme Vigliatore,Messina,Sicilia,Gravellona Lomellina,Pavia,Lombardia,Farmaceutico,Frigorifero,805,COMPLETATA
+R000369,C000003,2026-04-18,2026-04-22,Niardo,Brescia,Lombardia,Sannicandro di Bari,-,Puglia,Carta,Centinato,6809,COMPLETATA
+R000370,C000080,2026-12-18,2026-12-27,Torrebruna,Chieti,Abruzzo,Tavernola Bergamasca,Bergamo,Lombardia,Container,Portacontainer,10499,COMPLETATA
+R000371,C000064,2026-07-06,2026-07-11,Genola,Cuneo,Piemonte,Caselette,-,Piemonte,Container,Portacontainer,19282,COMPLETATA
+R000372,C000106,2026-11-02,2026-11-04,Ariano Irpino,Avellino,Campania,Perca,Bolzano/Bozen,Trentino-Alto Adige/Südtirol,Carta,Centinato,15925,COMPLETATA
+R000373,C000012,2026-05-07,2026-05-09,Sedico,Belluno,Veneto,Gottolengo,Brescia,Lombardia,Elettronica,Centinato,1329,ANNULLATA
+R000374,C000088,2026-06-15,2026-06-16,Chiarano,Treviso,Veneto,Fiumedinisi,Messina,Sicilia,Farmaceutico,Frigorifero,11495,COMPLETATA
+R000375,C000085,2026-11-20,2026-11-24,Sabbioneta,Mantova,Lombardia,Lauria,Potenza,Basilicata,Carta,Centinato,5209,ANNULLATA
+R000376,C000048,2026-06-01,2026-06-01,Mussomeli,Caltanissetta,Sicilia,Osiglia,Savona,Liguria,Farmaceutico,Frigorifero,5370,COMPLETATA
+R000377,C000043,2026-08-05,2026-08-12,San Gregorio di Catania,Catania,Sicilia,Quarona,Vercelli,Piemonte,Materiale edile,Cassonato,12423,COMPLETATA
+R000378,C000096,2026-10-18,2026-10-24,Bressanone,Bolzano/Bozen,Trentino-Alto Adige/Südtirol,Castellino del Biferno,Campobasso,Molise,Materiale edile,Cassonato,3324,COMPLETATA
+R000379,C000050,2026-02-07,2026-02-12,Scafati,Salerno,Campania,Borgo San Siro,Pavia,Lombardia,Elettronica,Centinato,1622,COMPLETATA
+R000380,C000052,2026-10-23,2026-10-30,Camisano,Cremona,Lombardia,Mazara del Vallo,Trapani,Sicilia,Arredamento,Centinato,3052,COMPLETATA
+R000381,C000073,2026-04-13,2026-04-16,Cantagallo,Prato,Toscana,Oria,Brindisi,Puglia,Materiale edile,Cassonato,6772,COMPLETATA
+R000382,C000082,2026-09-03,2026-09-06,Casanova Elvo,Vercelli,Piemonte,Casabona,Crotone,Calabria,Elettronica,Centinato,2691,ACCETTATA
+R000383,C000105,2026-07-13,2026-07-14,Viggiano,Potenza,Basilicata,Grassobbio,Bergamo,Lombardia,Alimentare,Frigorifero,15343,COMPLETATA
+R000384,C000081,2026-09-30,2026-10-07,Baiso,Reggio nell'Emilia,Emilia-Romagna,Cadegliano-Viconago,Varese,Lombardia,Container,Portacontainer,24245,ANNULLATA
+R000385,C000070,2026-04-12,2026-04-14,Sagron Mis,Trento,Trentino-Alto Adige/Südtirol,San Giacomo Filippo,Sondrio,Lombardia,Abbigliamento,Centinato,7083,COMPLETATA
+R000386,C000066,2026-06-19,2026-06-21,Giulianova,Teramo,Abruzzo,Regalbuto,Enna,Sicilia,Bevande,Cassonato,8708,COMPLETATA
+R000387,C000085,2026-03-05,2026-03-08,Bosisio Parini,Lecco,Lombardia,Lodrino,Brescia,Lombardia,Carta,Cassonato,22208,COMPLETATA
+R000388,C000100,2026-09-05,2026-09-07,Gioia dei Marsi,L'Aquila,Abruzzo,Castelcovati,Brescia,Lombardia,Elettronica,Centinato,3624,COMPLETATA
+R000389,C000003,2026-02-21,2026-02-26,Niardo,Brescia,Lombardia,Rosazza,Biella,Piemonte,Carta,Cassonato,4949,ACCETTATA
+R000390,C000106,2026-06-18,2026-06-23,Ariano Irpino,Avellino,Campania,La Valle,Bolzano/Bozen,Trentino-Alto Adige/Südtirol,Carta,Cassonato,15389,COMPLETATA
+R000391,C000029,2026-04-17,2026-04-21,Lazzate,Monza e della Brianza,Lombardia,Aosta,Valle d'Aosta/Vallée d'Aoste,Valle d'Aosta/Vallée d'Aoste,Carta,Centinato,24450,COMPLETATA
+R000392,C000064,2026-02-16,2026-02-26,Genola,Cuneo,Piemonte,Asigliano Vercellese,Vercelli,Piemonte,Container,Portacontainer,22077,COMPLETATA
+R000393,C000086,2026-07-20,2026-07-20,Costa Volpino,Bergamo,Lombardia,Lerma,Alessandria,Piemonte,Alimentare,Centinato,3063,COMPLETATA
+R000394,C000076,2026-10-10,2026-10-13,San Gregorio da Sassola,-,Lazio,Tollegno,Biella,Piemonte,Bevande,Centinato,18668,COMPLETATA
+R000395,C000043,2026-07-11,2026-07-17,San Gregorio di Catania,Catania,Sicilia,Aquara,Salerno,Campania,Materiale edile,Cassonato,16375,COMPLETATA
+R000396,C000117,2026-09-19,2026-09-25,Pozzallo,Ragusa,Sicilia,Dolceacqua,Imperia,Liguria,Arredamento,Centinato,10463,COMPLETATA
+R000397,C000055,2026-10-20,2026-10-24,Partanna,Trapani,Sicilia,Montecatini Val di Cecina,Pisa,Toscana,Arredamento,Centinato,10060,COMPLETATA
+R000398,C000012,2026-04-28,2026-05-02,Sedico,Belluno,Veneto,Bubbio,Asti,Piemonte,Elettronica,Centinato,2572,COMPLETATA
+R000399,C000015,2026-10-09,2026-10-11,Chiarano,Treviso,Veneto,Forza d'Agrò,Messina,Sicilia,Farmaceutico,Frigorifero,6108,COMPLETATA
+R000400,C000024,2026-12-20,2026-12-23,Mombercelli,Asti,Piemonte,Maletto,Catania,Sicilia,Abbigliamento,Centinato,791,ACCETTATA
+R000401,C000087,2026-09-06,2026-09-09,Verzuolo,Cuneo,Piemonte,Marino,-,Lazio,Liquidi,Cisterna,19423,COMPLETATA
+R000402,C000100,2026-01-15,2026-01-20,Gioia dei Marsi,L'Aquila,Abruzzo,Crespina Lorenzana,Pisa,Toscana,Elettronica,Centinato,525,COMPLETATA
+R000403,C000055,2026-05-09,2026-05-12,Partanna,Trapani,Sicilia,Pignone,La Spezia,Liguria,Liquidi,Cisterna,28121,COMPLETATA
+R000404,C000051,2026-12-22,2026-12-27,Flaibano,Udine,Friuli-Venezia Giulia,Ponza,Latina,Lazio,Container,Portacontainer,20344,COMPLETATA
+R000405,C000062,2026-05-09,2026-05-13,Scansano,Grosseto,Toscana,Poggio Torriana,Rimini,Emilia-Romagna,Arredamento,Cassonato,9432,COMPLETATA
+R000406,C000070,2026-10-17,2026-10-21,Ospedaletto,Trento,Trentino-Alto Adige/Südtirol,Gonzaga,Mantova,Lombardia,Abbigliamento,Centinato,4922,COMPLETATA
+R000407,C000120,2026-02-14,2026-02-17,Pescosolido,Frosinone,Lazio,Campofilone,Fermo,Marche,Materiale edile,Cassonato,28252,COMPLETATA
+R000408,C000082,2026-01-03,2026-01-05,Casanova Elvo,Vercelli,Piemonte,Buriasco,-,Piemonte,Elettronica,Centinato,189,ANNULLATA
+R000409,C000077,2026-03-22,2026-03-25,Casole d'Elsa,Siena,Toscana,San Giuseppe Jato,Palermo,Sicilia,Abbigliamento,Centinato,5053,ACCETTATA
+R000410,C000083,2026-09-30,2026-10-04,Cervarese Santa Croce,Padova,Veneto,Torano Castello,Cosenza,Calabria,Carta,Cassonato,2981,COMPLETATA
+R000411,C000083,2026-02-25,2026-02-27,Cervarese Santa Croce,Padova,Veneto,Fara Vicentino,Vicenza,Veneto,Carta,Cassonato,26083,COMPLETATA
+R000412,C000041,2026-06-30,2026-07-01,Racale,Lecce,Puglia,Baia e Latina,Caserta,Campania,Bevande,Cassonato,3274,COMPLETATA
+R000413,C000023,2026-04-21,2026-04-24,Sesta Godano,La Spezia,Liguria,Pietra Ligure,Savona,Liguria,Materiale edile,Cassonato,15131,ANNULLATA
+R000414,C000085,2026-04-15,2026-04-17,Bosisio Parini,Lecco,Lombardia,Torcegno,Trento,Trentino-Alto Adige/Südtirol,Carta,Centinato,24340,ACCETTATA
+R000415,C000021,2026-03-11,2026-03-17,Castelluccio Inferiore,Potenza,Basilicata,Malgrate,Lecco,Lombardia,Materiale edile,Cassonato,9730,COMPLETATA
+R000416,C000062,2026-07-01,2026-07-09,Scansano,Grosseto,Toscana,Cellamare,-,Puglia,Container,Portacontainer,12297,ANNULLATA
+R000417,C000096,2026-05-21,2026-05-24,Bressanone,Bolzano/Bozen,Trentino-Alto Adige/Südtirol,Prascorsano,-,Piemonte,Materiale edile,Cassonato,10923,COMPLETATA
+R000418,C000101,2026-09-06,2026-09-06,Molinara,Benevento,Campania,Civitaluparella,Chieti,Abruzzo,Alimentare,Centinato,10001,ANNULLATA
+R000419,C000078,2026-06-29,2026-07-09,Carpinone,Isernia,Molise,Crosio della Valle,Varese,Lombardia,Container,Portacontainer,21772,COMPLETATA
+R000420,C000025,2026-04-13,2026-04-13,Palestro,Pavia,Lombardia,Gradara,Pesaro e Urbino,Marche,Alimentare,Frigorifero,19929,COMPLETATA
+R000421,C000077,2026-01-02,2026-01-04,Gallicano,Lucca,Toscana,Bracca,Bergamo,Lombardia,Bevande,Cassonato,1537,COMPLETATA
+R000422,C000005,2026-03-19,2026-03-24,Avigliano,Potenza,Basilicata,Carpi,Modena,Emilia-Romagna,Arredamento,Cassonato,18082,ANNULLATA
+R000423,C000005,2026-04-21,2026-04-26,Roccanova,Potenza,Basilicata,Tufara,Campobasso,Molise,Arredamento,Centinato,2000,COMPLETATA
+R000424,C000076,2026-07-27,2026-07-29,San Gregorio da Sassola,-,Lazio,Limatola,Benevento,Campania,Abbigliamento,Centinato,6943,COMPLETATA
+R000425,C000073,2026-05-27,2026-06-02,Pienza,Siena,Toscana,Valvestino,Brescia,Lombardia,Materiale edile,Cassonato,14966,COMPLETATA
+R000426,C000117,2026-10-19,2026-10-24,Pozzallo,Ragusa,Sicilia,Paganico Sabino,Rieti,Lazio,Arredamento,Centinato,7487,COMPLETATA
+R000427,C000017,2026-07-15,2026-07-21,Egna,Bolzano/Bozen,Trentino-Alto Adige/Südtirol,Tavernola Bergamasca,Bergamo,Lombardia,Container,Portacontainer,22121,ANNULLATA
+R000428,C000005,2026-11-03,2026-11-07,Roccanova,Potenza,Basilicata,Lesmo,Monza e della Brianza,Lombardia,Arredamento,Cassonato,1012,COMPLETATA
+R000429,C000111,2026-10-16,2026-10-19,Bovolenta,Padova,Veneto,Arvier,Valle d'Aosta/Vallée d'Aoste,Valle d'Aosta/Vallée d'Aoste,Elettronica,Centinato,3357,COMPLETATA
+R000430,C000077,2026-08-02,2026-08-05,Casole d'Elsa,Siena,Toscana,San Michele di Serino,Avellino,Campania,Bevande,Cassonato,6719,COMPLETATA
+R000431,C000060,2026-04-04,2026-04-08,Marcellina,-,Lazio,Castiglione Falletto,Cuneo,Piemonte,Arredamento,Cassonato,18775,COMPLETATA
+R000432,C000102,2026-09-09,2026-09-11,Dipignano,Cosenza,Calabria,Cordignano,Treviso,Veneto,Liquidi,Cisterna,25527,COMPLETATA
+R000433,C000095,2026-09-02,2026-09-06,Roccantica,Rieti,Lazio,Berbenno,Bergamo,Lombardia,Arredamento,Cassonato,5735,COMPLETATA
+R000434,C000034,2026-10-02,2026-10-04,Rovellasca,Como,Lombardia,Calcata,Viterbo,Lazio,Abbigliamento,Centinato,7391,COMPLETATA
+R000435,C000111,2026-02-08,2026-02-13,Bovolenta,Padova,Veneto,Calopezzati,Cosenza,Calabria,Elettronica,Centinato,525,COMPLETATA
+R000436,C000040,2026-05-04,2026-05-07,Stio,Salerno,Campania,Marone,Brescia,Lombardia,Carta,Cassonato,4108,COMPLETATA
+R000437,C000103,2026-06-29,2026-07-05,Cocullo,L'Aquila,Abruzzo,Castiglione della Pescaia,Grosseto,Toscana,Materiale edile,Cassonato,20172,COMPLETATA
+R000438,C000111,2026-09-21,2026-09-25,Bovolenta,Padova,Veneto,Varallo,Vercelli,Piemonte,Elettronica,Centinato,1924,ANNULLATA
+R000439,C000026,2026-11-15,2026-11-20,San Bartolomeo Val Cavargna,Como,Lombardia,Arzago d'Adda,Bergamo,Lombardia,Liquidi,Cisterna,8640,COMPLETATA
+R000440,C000043,2026-11-03,2026-11-08,San Gregorio di Catania,Catania,Sicilia,Pergine Valsugana,Trento,Trentino-Alto Adige/Südtirol,Abbigliamento,Centinato,4628,ACCETTATA
+R000441,C000057,2026-10-08,2026-10-14,Cerro al Volturno,Isernia,Molise,Imperia,Imperia,Liguria,Container,Portacontainer,24028,COMPLETATA
+R000442,C000069,2026-01-16,2026-01-18,Flero,Brescia,Lombardia,Pareto,Alessandria,Piemonte,Elettronica,Centinato,231,COMPLETATA
+R000443,C000049,2026-07-01,2026-07-04,Caerano di San Marco,Treviso,Veneto,Forgaria nel Friuli,Udine,Friuli-Venezia Giulia,Bevande,Cassonato,3722,COMPLETATA
+R000444,C000113,2026-01-22,2026-01-23,Montenero Val Cocchiara,Isernia,Molise,Chiesanuova,-,Piemonte,Alimentare,Centinato,3473,COMPLETATA
+R000445,C000055,2026-10-28,2026-11-04,Portopalo di Capo Passero,Siracusa,Sicilia,Parzanica,Bergamo,Lombardia,Arredamento,Centinato,15696,COMPLETATA
+R000446,C000103,2026-05-23,2026-05-28,Montesilvano,Pescara,Abruzzo,Ronzo-Chienis,Trento,Trentino-Alto Adige/Südtirol,Materiale edile,Cassonato,3316,COMPLETATA
+R000447,C000035,2026-08-11,2026-08-13,Corsione,Asti,Piemonte,Corvino San Quirico,Pavia,Lombardia,Farmaceutico,Frigorifero,1376,ANNULLATA
+R000448,C000062,2026-06-02,2026-06-06,Scansano,Grosseto,Toscana,Grottaglie,Taranto,Puglia,Carta,Centinato,12479,COMPLETATA
+R000449,C000077,2026-04-04,2026-04-07,Casole d'Elsa,Siena,Toscana,Netro,Biella,Piemonte,Bevande,Centinato,11974,COMPLETATA
+R000450,C000113,2026-04-12,2026-04-13,Montenero Val Cocchiara,Isernia,Molise,Ceva,Cuneo,Piemonte,Alimentare,Frigorifero,25432,COMPLETATA
+R000451,C000051,2026-06-27,2026-07-02,Flaibano,Udine,Friuli-Venezia Giulia,Valleve,Bergamo,Lombardia,Container,Portacontainer,25932,COMPLETATA
+R000452,C000062,2026-09-23,2026-09-26,Scansano,Grosseto,Toscana,Novara di Sicilia,Messina,Sicilia,Materiale edile,Cassonato,27211,COMPLETATA
+R000453,C000105,2026-12-03,2026-12-03,Missanello,Potenza,Basilicata,Falerna,Catanzaro,Calabria,Farmaceutico,Frigorifero,4774,COMPLETATA
+R000454,C000016,2026-12-01,2026-12-05,Capizzi,Messina,Sicilia,Vadena,Bolzano/Bozen,Trentino-Alto Adige/Südtirol,Elettronica,Centinato,2182,COMPLETATA
+R000455,C000082,2026-04-03,2026-04-08,Casanova Elvo,Vercelli,Piemonte,Saint-Marcel,Valle d'Aosta/Vallée d'Aoste,Valle d'Aosta/Vallée d'Aoste,Container,Portacontainer,10703,ACCETTATA
+R000456,C000030,2026-09-11,2026-09-16,Mergo,Ancona,Marche,Sanremo,Imperia,Liguria,Carta,Cassonato,21987,COMPLETATA
+R000457,C000083,2026-11-10,2026-11-16,Cervarese Santa Croce,Padova,Veneto,Sapri,Salerno,Campania,Container,Portacontainer,14323,COMPLETATA
+R000458,C000029,2026-03-10,2026-03-15,Lazzate,Monza e della Brianza,Lombardia,Volano,Trento,Trentino-Alto Adige/Südtirol,Carta,Cassonato,2050,ANNULLATA
+R000459,C000076,2026-11-23,2026-11-26,San Gregorio da Sassola,-,Lazio,Roccamontepiano,Chieti,Abruzzo,Bevande,Cassonato,6746,COMPLETATA
+R000460,C000022,2026-04-06,2026-04-12,L'Aquila,L'Aquila,Abruzzo,Cisternino,Brindisi,Puglia,Container,Portacontainer,24447,COMPLETATA
+R000461,C000005,2026-07-06,2026-07-12,Roccanova,Potenza,Basilicata,Tagliolo Monferrato,Alessandria,Piemonte,Arredamento,Cassonato,15194,COMPLETATA
+R000462,C000004,2026-01-24,2026-01-28,Avella,Avellino,Campania,Polistena,Reggio di Calabria,Calabria,Abbigliamento,Centinato,1378,COMPLETATA
+R000463,C000035,2026-09-29,2026-10-01,Corsione,Asti,Piemonte,Concesio,Brescia,Lombardia,Abbigliamento,Centinato,1020,COMPLETATA
+R000464,C000065,2026-06-03,2026-06-05,Isola della Scala,Verona,Veneto,Roncegno Terme,Trento,Trentino-Alto Adige/Südtirol,Bevande,Cassonato,8220,COMPLETATA
+R000465,C000077,2026-04-01,2026-04-02,Casole d'Elsa,Siena,Toscana,Limatola,Benevento,Campania,Bevande,Centinato,26136,COMPLETATA
+R000466,C000053,2026-03-11,2026-03-18,Introbio,Lecco,Lombardia,Monchiero,Cuneo,Piemonte,Materiale edile,Cassonato,13924,COMPLETATA
+R000467,C000113,2026-05-12,2026-05-14,Montenero Val Cocchiara,Isernia,Molise,Galliate Lombardo,Varese,Lombardia,Carta,Cassonato,14512,COMPLETATA
+R000468,C000043,2026-10-14,2026-10-19,San Gregorio di Catania,Catania,Sicilia,Cerete,Bergamo,Lombardia,Liquidi,Cisterna,19556,COMPLETATA
+R000469,C000096,2026-07-05,2026-07-05,Bressanone,Bolzano/Bozen,Trentino-Alto Adige/Südtirol,Semiana,Pavia,Lombardia,Farmaceutico,Frigorifero,9670,COMPLETATA
+R000470,C000118,2026-10-03,2026-10-08,Castel Frentano,Chieti,Abruzzo,Cervia,Ravenna,Emilia-Romagna,Container,Portacontainer,29355,COMPLETATA
+R000471,C000109,2026-11-07,2026-11-10,Giffone,Reggio di Calabria,Calabria,Candidoni,Reggio di Calabria,Calabria,Carta,Cassonato,25247,ACCETTATA
+R000472,C000034,2026-06-24,2026-06-29,Ponti sul Mincio,Mantova,Lombardia,Salvitelle,Salerno,Campania,Abbigliamento,Centinato,2589,COMPLETATA
+R000473,C000094,2026-09-04,2026-09-08,Torrile,Parma,Emilia-Romagna,San Ferdinando,Reggio di Calabria,Calabria,Elettronica,Centinato,3467,COMPLETATA
+R000474,C000057,2026-06-03,2026-06-05,Cerro al Volturno,Isernia,Molise,Esino Lario,Lecco,Lombardia,Farmaceutico,Frigorifero,4591,COMPLETATA
+R000475,C000069,2026-12-27,2026-12-28,Flero,Brescia,Lombardia,Rocca di Cave,-,Lazio,Bevande,Cassonato,16598,COMPLETATA
+R000476,C000086,2026-03-15,2026-03-15,Costa Volpino,Bergamo,Lombardia,Pedrengo,Bergamo,Lombardia,Alimentare,Centinato,2417,COMPLETATA
+R000477,C000006,2026-07-30,2026-07-31,Casaletto Spartano,Salerno,Campania,Castelnovo di Sotto,Reggio nell'Emilia,Emilia-Romagna,Bevande,Cassonato,10557,COMPLETATA
+R000478,C000090,2026-07-28,2026-08-02,Poggio Moiano,Rieti,Lazio,Montaione,-,Toscana,Materiale edile,Cassonato,6476,ACCETTATA
+R000479,C000082,2026-05-05,2026-05-07,Casanova Elvo,Vercelli,Piemonte,Lestizza,Udine,Friuli-Venezia Giulia,Elettronica,Centinato,2425,COMPLETATA
+R000480,C000033,2026-02-05,2026-02-07,Larino,Campobasso,Molise,Brunico,Bolzano/Bozen,Trentino-Alto Adige/Südtirol,Farmaceutico,Frigorifero,2721,COMPLETATA
+R000481,C000025,2026-02-05,2026-02-07,Palestro,Pavia,Lombardia,Tessennano,Viterbo,Lazio,Liquidi,Cisterna,7503,COMPLETATA
+R000482,C000038,2026-07-11,2026-07-17,Torre Orsaia,Salerno,Campania,Lesa,Novara,Piemonte,Container,Portacontainer,29583,COMPLETATA
+R000483,C000004,2026-09-10,2026-09-15,San Prisco,Caserta,Campania,Ceggia,-,Veneto,Arredamento,Centinato,5164,COMPLETATA
+R000484,C000117,2026-10-02,2026-10-07,Pozzallo,Ragusa,Sicilia,San Martino sulla Marrucina,Chieti,Abruzzo,Arredamento,Centinato,16368,COMPLETATA
+R000485,C000094,2026-04-03,2026-04-07,Maranello,Modena,Emilia-Romagna,Nova Milanese,Monza e della Brianza,Lombardia,Elettronica,Centinato,3771,COMPLETATA
+R000486,C000088,2026-03-12,2026-03-12,Chiarano,Treviso,Veneto,Induno Olona,Varese,Lombardia,Farmaceutico,Frigorifero,3327,COMPLETATA
+R000487,C000100,2026-10-20,2026-10-23,Gioia dei Marsi,L'Aquila,Abruzzo,Minervino Murge,Barletta-Andria-Trani,Puglia,Carta,Cassonato,16904,COMPLETATA
+R000488,C000011,2026-03-25,2026-03-25,Berzano di San Pietro,Asti,Piemonte,Varenna,Lecco,Lombardia,Alimentare,Frigorifero,9735,ANNULLATA
+R000489,C000013,2026-03-22,2026-03-23,Omignano,Salerno,Campania,Gorgo al Monticano,Treviso,Veneto,Bevande,Cassonato,20312,COMPLETATA
+R000490,C000043,2026-02-11,2026-02-14,San Gregorio di Catania,Catania,Sicilia,Comunanza,Ascoli Piceno,Marche,Materiale edile,Cassonato,14355,COMPLETATA
+R000491,C000062,2026-09-03,2026-09-09,Scansano,Grosseto,Toscana,Formigine,Modena,Emilia-Romagna,Arredamento,Cassonato,18756,COMPLETATA
+R000492,C000047,2026-06-18,2026-06-23,Solesino,Padova,Veneto,Furnari,Messina,Sicilia,Abbigliamento,Centinato,6990,COMPLETATA
+R000493,C000101,2026-06-22,2026-06-23,Pratella,Caserta,Campania,Forni di Sotto,Udine,Friuli-Venezia Giulia,Alimentare,Frigorifero,26794,COMPLETATA
+R000494,C000120,2026-09-03,2026-09-06,Pescosolido,Frosinone,Lazio,Farindola,Pescara,Abruzzo,Materiale edile,Cassonato,18126,COMPLETATA
+R000495,C000050,2026-12-03,2026-12-07,Montano Antilia,Salerno,Campania,Nereto,Teramo,Abruzzo,Elettronica,Centinato,3705,ANNULLATA
+R000496,C000043,2026-06-16,2026-06-21,San Gregorio di Catania,Catania,Sicilia,Vicenza,Vicenza,Veneto,Materiale edile,Cassonato,28463,COMPLETATA
+R000497,C000090,2026-07-13,2026-07-19,Poggio Moiano,Rieti,Lazio,Gualdo Tadino,Perugia,Umbria,Materiale edile,Cassonato,22845,COMPLETATA
+R000498,C000021,2026-04-05,2026-04-08,Castelluccio Inferiore,Potenza,Basilicata,Lissone,Monza e della Brianza,Lombardia,Materiale edile,Cassonato,17294,COMPLETATA
+R000499,C000006,2026-08-11,2026-08-12,Pisciotta,Salerno,Campania,Moggio,Lecco,Lombardia,Bevande,Centinato,13538,COMPLETATA
+R000500,C000076,2026-04-16,2026-04-18,San Gregorio da Sassola,-,Lazio,Cautano,Benevento,Campania,Bevande,Cassonato,7616,COMPLETATA
