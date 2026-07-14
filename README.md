@@ -142,7 +142,7 @@ pip install -r requirements.txt
 Avviare la dashboard:
 
 ```bash
-streamlit run dashboard/app.py
+python -m streamlit run dashboard/app.py
 ```
 
 ---
