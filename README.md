@@ -1,8 +1,8 @@
-# 🚚 TruckFlow
+# TruckFlow
 
 > Sistema di Business Intelligence per il monitoraggio delle performance di un marketplace logistico.
 
-## 📖 Descrizione
+## Descrizione
 
 TruckFlow è un progetto sviluppato nell'ambito del Project Work PW21 del Corso di Laurea in Informatica per le Aziende Digitali.
 
@@ -18,7 +18,7 @@ Il sistema comprende:
 
 ---
 
-# 🏗 Architettura del sistema
+# Architettura del sistema
 
 ```
 Sorgenti dati
@@ -43,7 +43,7 @@ Sorgenti dati
 
 ---
 
-# 🚀 Tecnologie utilizzate
+# Tecnologie utilizzate
 
 | Tecnologia | Utilizzo |
 |------------|----------|
@@ -57,7 +57,7 @@ Sorgenti dati
 
 ---
 
-# 📂 Struttura del progetto
+# Struttura del progetto
 
 ```text
 TruckFlow
@@ -84,11 +84,11 @@ TruckFlow
 
 ---
 
-# 📊 Dashboard
+# Dashboard
 
 Il sistema mette a disposizione quattro dashboard dedicate all'analisi delle performance aziendali.
 
-### 📈 Executive Dashboard
+### Executive Dashboard
 
 Consente di monitorare i principali KPI economici e operativi.
 
@@ -99,7 +99,7 @@ Consente di monitorare i principali KPI economici e operativi.
 
 ---
 
-### 🚛 Dashboard Operativa
+### Dashboard Operativa
 
 Analizza le attività operative della piattaforma.
 
@@ -110,7 +110,7 @@ Analizza le attività operative della piattaforma.
 
 ---
 
-### 🌍 Dashboard Geografica
+### Dashboard Geografica
 
 Permette di analizzare la distribuzione territoriale delle spedizioni.
 
@@ -120,7 +120,7 @@ Permette di analizzare la distribuzione territoriale delle spedizioni.
 
 ---
 
-### 👥 Dashboard Clienti
+### Dashboard Clienti
 
 Consente di monitorare il comportamento della clientela.
 
@@ -131,7 +131,7 @@ Consente di monitorare il comportamento della clientela.
 
 ---
 
-# ▶️ Avvio del progetto
+# Avvio del progetto
 
 Installare le dipendenze:
 
@@ -147,7 +147,7 @@ python -m streamlit run dashboard/app.py
 
 ---
 
-# 📚 Project Work
+# Project Work
 
 Corso di Laurea
 
@@ -159,7 +159,7 @@ Project Work PW21
 
 ---
 
-# 👩‍💻 Autore
+# Autore
 
 **Crisele Ariola**
 
