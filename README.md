@@ -20,7 +20,7 @@ Il sistema comprende:
 
 # Architettura del sistema
 
-```
+```text
 Sorgenti dati
 │
 ├── App Clienti
@@ -62,24 +62,45 @@ Sorgenti dati
 ```text
 TruckFlow
 │
-├── dashboard/
+├── dashboard/                         # Dashboard e interfaccia Streamlit
 │   ├── app.py
-│   ├── repository.py
 │   ├── charts.py
+│   ├── repository.py
 │   ├── utils.py
+│   ├── test_chart.py
 │   └── views/
+│       ├── clienti.py
+│       ├── executive.py
+│       ├── geografica.py
+│       └── operativa.py
 │
-├── generator/
+├── generator/                         # Generazione dei dati sintetici
+│   ├── distance.py
+│   ├── generate_app_clienti.py
+│   ├── generate_archivio_partner.py
+│   ├── generate_marketplace.py
+│   └── utils.py
 │
-├── etl/
+├── etl/                               # Pipeline ETL e Data Warehouse
+│   ├── build_fact.py
+│   ├── create_dw.py
+│   ├── database.py
+│   ├── extract.py
+│   ├── load.py
+│   ├── load_staging.py
+│   ├── main.py
+│   └── transform.py
 │
-├── data/
+├── data/                              # Dati utilizzati dal progetto
+│   ├── anagrafiche/
+│   ├── database/
+│   └── sorgenti/
 │
-├── dw/
+├── tests/                             # Test e controlli
 │
-├── requirements.txt
+├── requirements.txt                   # Dipendenze Python
 │
-└── README.md
+└── README.md                          # Documentazione del progetto
 ```
 
 ---
@@ -131,19 +152,59 @@ Consente di monitorare il comportamento della clientela.
 
 ---
 
-# Avvio del progetto
+# Riproduzione del progetto
 
-Installare le dipendenze:
+Il progetto può essere riprodotto in ambiente locale seguendo una sequenza di passaggi che comprende l'installazione delle dipendenze, la generazione dei dati sintetici, l'esecuzione della pipeline ETL e l'avvio della dashboard.
+
+## Requisiti
+
+- Python 3.13
+- Git
+
+## 1. Clonazione del repository
+
+Clonare il repository e accedere alla cartella del progetto:
+
+```bash
+git clone https://github.com/crisele05-code/TruckFlow.git
+cd TruckFlow
+```
+
+## 2. Installazione delle dipendenze
+
+Installare le librerie richieste dal progetto:
 
 ```bash
 pip install -r requirements.txt
 ```
 
-Avviare la dashboard:
+## 3. Generazione dei dati sintetici
+
+Eseguire gli script per generare le principali sorgenti dati utilizzate dal progetto:
+
+```bash
+python generator/generate_app_clienti.py
+python generator/generate_archivio_partner.py
+python generator/generate_marketplace.py
+```
+
+## 4. Esecuzione della pipeline ETL
+
+Avviare il processo di creazione e caricamento del Data Warehouse:
+
+```bash
+python etl/main.py
+```
+
+## 5. Avvio della dashboard
+
+Avviare l'applicazione Streamlit:
 
 ```bash
 python -m streamlit run dashboard/app.py
 ```
+
+Una volta avviata, la dashboard sarà disponibile nel browser all'indirizzo indicato da Streamlit.
 
 ---
 
